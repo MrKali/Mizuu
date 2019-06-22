@@ -1,0 +1,2726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bufferSizes">
+        <item>@string/_8kb</item>
+        <item>@string/_16kb</item>
+    </string-array>
+    <string-array name="episodesOrder">
+        <item>@string/newestFirst</item>
+        <item>@string/oldestFirst</item>
+    </string-array>
+    <string-array name="grid_item_size">
+        <item>@string/large</item>
+        <item>@string/normal</item>
+        <item>@string/small</item>
+    </string-array>
+    <string-array name="scheduledUpdates">
+        <item>@string/scheduledAtLaunch</item>
+        <item>@string/scheduledEveryHour</item>
+        <item>@string/scheduledEvery2Hours</item>
+        <item>@string/scheduledEvery4Hours</item>
+        <item>@string/scheduledEvery6Hours</item>
+        <item>@string/scheduledEvery12Hours</item>
+        <item>@string/scheduledEveryDay</item>
+        <item>@string/scheduledEveryWeek</item>
+    </string-array>
+    <string-array name="seasonsLayout">
+        <item>@string/gridView</item>
+        <item>@string/listView</item>
+    </string-array>
+    <string-array name="startup_screen">
+        <item>@string/drawerMyMovies</item>
+        <item>@string/drawerMyTvShows</item>
+    </string-array>
+    <string-array name="startup_screen_codes">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <attr format="reference" name="drawerArrowStyle"/>
+    <attr format="dimension" name="height"/>
+    <attr format="boolean" name="isLightTheme"/>
+    <attr format="string" name="title"/>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <color name="abc_input_method_navigation_guard">@android:color/black</color>
+    <color name="abc_search_url_text_normal">#7fa87f</color>
+    <color name="abc_search_url_text_pressed">@android:color/black</color>
+    <color name="abc_search_url_text_selected">@android:color/black</color>
+    <color name="accent_material_dark">@color/material_deep_teal_200</color>
+    <color name="accent_material_light">@color/material_deep_teal_500</color>
+    <color name="background_floating_material_dark">#ff424242</color>
+    <color name="background_floating_material_light">#ffeeeeee</color>
+    <color name="background_material_dark">#ff303030</color>
+    <color name="background_material_light">#ffeeeeee</color>
+    <color name="background_tab_pressed">#1AFFFFFF</color>
+    <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
+    <color name="bright_foreground_disabled_material_light">#80000000</color>
+    <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
+    <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color>
+    <color name="bright_foreground_material_dark">@android:color/white</color>
+    <color name="bright_foreground_material_light">@android:color/black</color>
+    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_light">#ffd6d7d7</color>
+    <color name="card_background_dark">#292929</color>
+    <color name="card_title_color">#d0d0d0</color>
+    <color name="cardview_dark_background">#FF202020</color>
+    <color name="cardview_light_background">#FFFAFAFA</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="color_accent">#64B5F6</color>
+    <color name="color_primary">#3f51b5</color>
+    <color name="color_primary_dark">#1a237e</color>
+    <color name="dark_background">#181818</color>
+    <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
+    <color name="dim_foreground_disabled_material_light">#80323232</color>
+    <color name="dim_foreground_material_dark">#ffbebebe</color>
+    <color name="dim_foreground_material_light">#ff323232</color>
+    <color name="fab_default">#666</color>
+    <color name="fab_light">#777</color>
+    <color name="grid_item_subtitle_text_color">#999</color>
+    <color name="gridview_highlight">#88607D8B</color>
+    <color name="highlighted_text_material_dark">#6680cbc4</color>
+    <color name="highlighted_text_material_light">#66009688</color>
+    <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
+    <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
+    <color name="link_text_material_dark">@color/material_deep_teal_200</color>
+    <color name="link_text_material_light">@color/material_deep_teal_500</color>
+    <color name="material_blue_500">#5677fc</color>
+    <color name="material_blue_600">#4e6cef</color>
+    <color name="material_blue_grey_800">#ff37474f</color>
+    <color name="material_blue_grey_900">#ff263238</color>
+    <color name="material_blue_grey_950">#ff21272b</color>
+    <color name="material_deep_teal_200">#ff80cbc4</color>
+    <color name="material_deep_teal_500">#ff009688</color>
+    <color name="pressed">#CC3f51b5</color>
+    <color name="primary_dark_material_dark">#ff000000</color>
+    <color name="primary_dark_material_light">#ff757575</color>
+    <color name="primary_material_dark">#ff212121</color>
+    <color name="primary_material_light">#ffbdbdbd</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="primary_text_default_material_light">#de000000</color>
+    <color name="primary_text_disabled_material_dark">#4Dffffff</color>
+    <color name="primary_text_disabled_material_light">#39000000</color>
+    <color name="ripple_material_dark">#40ffffff</color>
+    <color name="ripple_material_light">#40000000</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+    <color name="secondary_text_disabled_material_light">#24000000</color>
+    <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
+    <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
+    <dimen name="abc_action_bar_default_height_material">56dp</dimen>
+    <dimen name="abc_action_bar_default_padding_material">4dp</dimen>
+    <dimen name="abc_action_bar_icon_vertical_padding_material">16dp</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">40dp</dimen>
+    <dimen name="abc_action_bar_stacked_max_height">48dp</dimen>
+    <dimen name="abc_action_bar_stacked_tab_max_width">180dp</dimen>
+    <dimen name="abc_action_bar_subtitle_bottom_margin_material">5dp</dimen>
+    <dimen name="abc_action_bar_subtitle_top_margin_material">-3dp</dimen>
+    <dimen name="abc_action_button_min_height_material">48dp</dimen>
+    <dimen name="abc_action_button_min_width_material">48dp</dimen>
+    <dimen name="abc_action_button_min_width_overflow_material">36dp</dimen>
+    <dimen name="abc_config_prefDialogWidth">320dp</dimen>
+    <dimen name="abc_control_inset_material">4dp</dimen>
+    <dimen name="abc_control_padding_material">4dp</dimen>
+    <dimen name="abc_dropdownitem_icon_width">32dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_left">8dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_right">8dip</dimen>
+    <dimen name="abc_panel_menu_list_width">296dp</dimen>
+    <dimen name="abc_search_view_preferred_width">320dip</dimen>
+    <dimen name="abc_search_view_text_min_width">160dip</dimen>
+    <dimen name="abc_text_size_body_1_material">16sp</dimen>
+    <dimen name="abc_text_size_body_2_material">16sp</dimen>
+    <dimen name="abc_text_size_button_material">14sp</dimen>
+    <dimen name="abc_text_size_caption_material">12sp</dimen>
+    <dimen name="abc_text_size_display_1_material">34sp</dimen>
+    <dimen name="abc_text_size_display_2_material">45sp</dimen>
+    <dimen name="abc_text_size_display_3_material">56sp</dimen>
+    <dimen name="abc_text_size_display_4_material">112sp</dimen>
+    <dimen name="abc_text_size_headline_material">24sp</dimen>
+    <dimen name="abc_text_size_large_material">22sp</dimen>
+    <dimen name="abc_text_size_medium_material">18sp</dimen>
+    <dimen name="abc_text_size_menu_material">16sp</dimen>
+    <dimen name="abc_text_size_small_material">14sp</dimen>
+    <dimen name="abc_text_size_subhead_material">16sp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
+    <dimen name="abc_text_size_title_material">20sp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="backdrop_portrait_height">300dp</dimen>
+    <dimen name="backdrop_thumbnail_width">150dp</dimen>
+    <dimen name="cardview_compat_inset_shadow">1dp</dimen>
+    <dimen name="cardview_default_elevation">2dp</dimen>
+    <dimen name="cardview_default_radius">2dp</dimen>
+    <dimen name="content_details_area_header">16sp</dimen>
+    <dimen name="content_details_area_margin">12dp</dimen>
+    <dimen name="content_details_area_right_padding">92dp</dimen>
+    <dimen name="content_details_area_subheader">12sp</dimen>
+    <dimen name="content_details_baseline_margin">16dp</dimen>
+    <dimen name="content_details_body_text">16sp</dimen>
+    <dimen name="content_details_fab_negative_margin">-28dp</dimen>
+    <dimen name="content_details_filepath">10sp</dimen>
+    <dimen name="content_details_landscape_fab_margin_top">20dp</dimen>
+    <dimen name="content_details_large_margin">48dp</dimen>
+    <dimen name="content_details_main_height">240dp</dimen>
+    <dimen name="content_details_portrait_thumb_height">150dp</dimen>
+    <dimen name="content_details_portrait_thumb_negative_margin">-32dp</dimen>
+    <dimen name="content_details_portrait_thumb_width">100dp</dimen>
+    <dimen name="content_details_small_margin">4dp</dimen>
+    <dimen name="content_details_subheader">18sp</dimen>
+    <dimen name="content_details_thumb_height">226dp</dimen>
+    <dimen name="content_details_thumb_width">151dp</dimen>
+    <dimen name="content_details_title">28sp</dimen>
+    <dimen name="content_details_title_margin_top">-12dp</dimen>
+    <dimen name="content_details_very_small_margin">0dp</dimen>
+    <dimen name="details_medium_padding">12dp</dimen>
+    <dimen name="details_padding">16dp</dimen>
+    <dimen name="details_text_size">18sp</dimen>
+    <dimen name="details_very_small_padding">2dp</dimen>
+    <item name="dialog_fixed_height_major" type="dimen">80%</item>
+    <item name="dialog_fixed_height_minor" type="dimen">100%</item>
+    <item name="dialog_fixed_width_major" type="dimen">320dp</item>
+    <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
+    <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
+    <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
+    <dimen name="empty_library_message_width">300dp</dimen>
+    <dimen name="episode_details_background_overlay_height">150dp</dimen>
+    <dimen name="episode_details_background_overlay_width">250dp</dimen>
+    <dimen name="episode_details_thumb_height">140dp</dimen>
+    <dimen name="episode_details_thumb_width">200dp</dimen>
+    <dimen name="fab_elevation_lollipop">8dp</dimen>
+    <dimen name="fab_min_significant_scroll">4dp</dimen>
+    <dimen name="fab_mini_shadow_size">6dp</dimen>
+    <dimen name="fab_scroll_threshold">4dp</dimen>
+    <dimen name="fab_shadow_size">8dp</dimen>
+    <dimen name="fab_size_mini">56dp</dimen>
+    <dimen name="fab_size_normal">64dp</dimen>
+    <dimen name="horizontal_card_layout_title_padding">8dp</dimen>
+    <dimen name="horizontal_grid_item_backdrop_width">120dp</dimen>
+    <dimen name="horizontal_grid_item_width">96dp</dimen>
+    <dimen name="image_thumbnail_height">147dp</dimen>
+    <dimen name="image_thumbnail_size">95dp</dimen>
+    <dimen name="image_thumbnail_spacing">5dp</dimen>
+    <dimen name="large_text_size">18sp</dimen>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="movie_details_padding">8dp</dimen>
+    <dimen name="season_list_subtitle">15sp</dimen>
+    <dimen name="tagline_text_size">22sp</dimen>
+    <dimen name="thumb_small_height">150dp</dimen>
+    <dimen name="thumb_small_width">100dp</dimen>
+    <dimen name="toolbar_tabs_height">48dp</dimen>
+    <dimen name="widgetColumnWidth">140dip</dimen>
+    <dimen name="widgetCoverColumnWidth">80dip</dimen>
+    <dimen name="widgetCoverHeight">150dip</dimen>
+    <dimen name="widgetHorizontalSpacing">6dip</dimen>
+    <dimen name="widgetThumbnailHeight">110dip</dimen>
+    <dimen name="widgetVerticalSpacing">6dip</dimen>
+    <item name="action_bar_activity_content" type="id"/>
+    <item name="action_bar_spinner" type="id"/>
+    <item name="action_menu_divider" type="id"/>
+    <item name="action_menu_presenter" type="id"/>
+    <item name="home" type="id"/>
+    <item name="progress_circular" type="id"/>
+    <item name="progress_horizontal" type="id"/>
+    <item name="split_action_bar" type="id"/>
+    <item name="up" type="id"/>
+    <integer name="abc_max_action_buttons">2</integer>
+    <integer name="episode_details_max_lines">6</integer>
+    <integer name="movie_details_max_lines">6</integer>
+    <integer name="show_details_max_lines">8</integer>
+    <plurals name="day">
+        <item quantity="one">day</item>
+        <item quantity="other">days</item>
+    </plurals>
+    <plurals name="episodes">
+        <item quantity="one">episode</item>
+        <item quantity="other">episodes</item>
+    </plurals>
+    <plurals name="episodes_selected">
+        <item quantity="one">episode selected</item>
+        <item quantity="other">episodes selected</item>
+    </plurals>
+    <plurals name="files">
+        <item quantity="one">file</item>
+        <item quantity="other">files</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="one">hour</item>
+        <item quantity="other">hours</item>
+    </plurals>
+    <plurals name="hour_short">
+        <item quantity="one">hr</item>
+        <item quantity="other">hrs</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="one">minute</item>
+        <item quantity="other">minutes</item>
+    </plurals>
+    <plurals name="minute_short">
+        <item quantity="one">min</item>
+        <item quantity="other">mins</item>
+    </plurals>
+    <plurals name="moviesInLibrary">
+        <item quantity="one">movie</item>
+        <item quantity="other">movies</item>
+    </plurals>
+    <plurals name="seasons">
+        <item quantity="one">season</item>
+        <item quantity="other">seasons</item>
+    </plurals>
+    <plurals name="seasons_selected">
+        <item quantity="one">season selected</item>
+        <item quantity="other">seasons selected</item>
+    </plurals>
+    <plurals name="showsInLibrary">
+        <item quantity="one">show</item>
+        <item quantity="other">shows</item>
+    </plurals>
+    <string name="_16kb">16 KB</string>
+    <string name="_8kb">8 KB</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="actor">Actor</string>
+    <string name="actor_known_credits">Known credits</string>
+    <string name="actorsShowAllPhotos">Photos</string>
+    <string name="actorsTaggedPhotos">Tagged photos</string>
+    <string name="addCurrentFolderAsFileSource">Add folder as file source</string>
+    <string name="addFileSource">Add file source</string>
+    <string name="addFileSourceTitle">Add file source</string>
+    <string name="addFileSourcesAbove">Add file sources using the menu item above.</string>
+    <string name="addedToFavs">Added to favorites!</string>
+    <string name="addedToWatchList">Added to Watchlist!</string>
+    <string name="addingCover">Downloading new cover art…</string>
+    <string name="advanced">Advanced</string>
+    <string name="allCertifications">All certifications</string>
+    <string name="allGenres">All genres</string>
+    <string name="allReleaseYears">All release years</string>
+    <string name="all_episodes">All episodes</string>
+    <string name="alwaysDeleteFile">Automatically check the \"Delete file\" option when removing a movie or TV show episode.</string>
+    <string name="alwaysDeleteFileTitle">Always delete file when removing content</string>
+    <string name="analyzing_files">Analyzing files…</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="app_name">Mizuu</string>
+    <string name="app_name_movies">Mizuu - movies</string>
+    <string name="app_name_tvshows">Mizuu - TV shows</string>
+    <string name="areYouSure">Are you sure?</string>
+    <string name="authenticating">Authenticating…</string>
+    <string name="automaticallyShareSocialUpdates">Automatically share social updates when you watch a movie or TV show.</string>
+    <string name="backdrop">Backdrop images</string>
+    <string name="birthday">Birthday</string>
+    <string name="browseMedia">Browse artwork</string>
+    <string name="browseSources">Browse sources</string>
+    <string name="browser_help_message">Press the Back-button to navigate up the file system</string>
+    <string name="bufferSize">Stream buffer size</string>
+    <string name="bufferSizeDescription">Set the buffer size of the video streaming service.</string>
+    <string name="cancel">Cancel</string>
+    <string name="cant_identify_while_updating">"You can't manually identify while the library is updating!"</string>
+    <string name="check_in">Check in on Trakt</string>
+    <string name="checked_in">Successfully checked in on Trakt!</string>
+    <string name="choiceAllMovies">All movies</string>
+    <string name="choiceAllShows">All shows</string>
+    <string name="choiceAvailableFiles">Available files</string>
+    <string name="choiceCollections">Collections</string>
+    <string name="choiceFavorites">Favorites</string>
+    <string name="choiceGenres">Genres</string>
+    <string name="choiceNewReleases">New releases</string>
+    <string name="choiceOffline">Offline copies</string>
+    <string name="choiceReddit">Reddit</string>
+    <string name="choiceTedTalks">TED Talks</string>
+    <string name="choiceUnwatchedMovies">Unwatched movies</string>
+    <string name="choiceWatchedMovies">Watched movies</string>
+    <string name="choiceYouTube">YouTube</string>
+    <string name="chooserMovies">Movies</string>
+    <string name="chooserTVShows">TV shows</string>
+    <string name="chooserWatchList">Watchlist</string>
+    <string name="chooserWebVideos">Web videos</string>
+    <string name="clear_filters">Clear filters</string>
+    <string name="collectionart">Collection art</string>
+    <string name="compatibility">compatibility</string>
+    <string name="contentLocation">Content location</string>
+    <string name="contentLocationDescription">Where is the content located?</string>
+    <string name="contentLocationDevice">On my device</string>
+    <string name="contentLocationDevice_Alternative">My device</string>
+    <string name="contentLocationSMB">On a SMB network share</string>
+    <string name="contentLocationSMB_Alternative">SMB network share</string>
+    <string name="contentLocationUPnP">On a DLNA/UPnP network share</string>
+    <string name="contentLocationUPnP_Alternative">DLNA/UPnP network share</string>
+    <string name="contentTypeDescription">Which kind of content are you going to add?</string>
+    <string name="continueString">Continue</string>
+    <string name="couldnt_load_folder">Couldn\'t load folder!</string>
+    <string name="coverSearchFailed">Cover art search failed!</string>
+    <string name="coverart">Cover art</string>
+    <string name="create_new_certification">Create new certification</string>
+    <string name="data_collection">Data collection</string>
+    <string name="database_copied">Database copied!</string>
+    <string name="database_dump_description">Creates a copy of the database in the application folder.</string>
+    <string name="database_dump_title">Copy database</string>
+    <string name="define_FloatingActionButton"/>
+    <string name="deleteFile">Delete file</string>
+    <string name="detailsActors">Actors</string>
+    <string name="detailsAirDate">Air Date</string>
+    <string name="detailsCertification">Certification</string>
+    <string name="detailsFirstAired">First aired</string>
+    <string name="detailsGenre">Genres (comma-separated)</string>
+    <string name="detailsRating">Rating</string>
+    <string name="detailsReleaseDate">Release date</string>
+    <string name="detailsRunTime">Runtime</string>
+    <string name="detailsTrailer">Trailer</string>
+    <string name="done">Done</string>
+    <string name="downloadingMovieCollection">Downloading movie collection…</string>
+    <string name="downloadingMovieFavorites">Downloading movie favorites…</string>
+    <string name="downloadingTvShowCollection">Downloading TV show collection…</string>
+    <string name="downloadingTvShowFavorites">Downloading TV show favorites…</string>
+    <string name="downloadingWatchedMovies">Downloading watched movies…</string>
+    <string name="downloadingWatchedTvShows">Downloading watched TV shows…</string>
+    <string name="downloadingWatchlist">Downloading watchlist…</string>
+    <string name="drawerMyMovies">My Movies</string>
+    <string name="drawerMyTvShows">My TV Shows</string>
+    <string name="drawerOnlineMovies">Online Movies</string>
+    <string name="drawerWebVideos">Web Videos</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="early_access">Early access testing</string>
+    <string name="editMoviePlot">Description</string>
+    <string name="editMovieTagline">Tagline</string>
+    <string name="editMovieTitle">Title</string>
+    <string name="empty_watchlist">Nothing to watch</string>
+    <string name="empty_watchlist_description">Why not add some? It\'s easy to do.</string>
+    <string name="enableScheduledLibraryUpdates">Enable scheduled library updates</string>
+    <string name="enterNetworkAddress">No IP address or host name!</string>
+    <string name="enterTitle">Enter title</string>
+    <string name="errorOccured">An error occurred</string>
+    <string name="errorSomethingWentWrong">Something went wrong - please try again!</string>
+    <string name="failedDeleting">Could not delete file!</string>
+    <string name="failedToLogin">Failed to log in!</string>
+    <string name="failedToRemoveEpisode">Could not remove episode!</string>
+    <string name="failedToRemoveShow">Could not remove show!</string>
+    <string name="few_moments">This may take a few moments…</string>
+    <string name="fileSources">File sources</string>
+    <string name="filesourcesDescription">These folders will be indexed for content</string>
+    <string name="filters">Filters</string>
+    <string name="finishedMovieLibraryUpdate">Finished updating movies</string>
+    <string name="finishedTraktMovieSync">Finished synchronizing movies with Trakt</string>
+    <string name="finishedTraktTvShowSync">Finished synchronizing TV shows with Trakt</string>
+    <string name="finishedTvShowsLibraryUpdate">Finished updating TV shows</string>
+    <string name="folderContent">Folder content</string>
+    <string name="folder_has_no_files_folders">This folder has no files or folders.</string>
+    <string name="folders">Folders</string>
+    <string name="gettingReady">Getting ready…</string>
+    <string name="greeting">Welcome</string>
+    <string name="gridView">Grid view</string>
+    <string name="identify">Identify</string>
+    <string name="identifyEpisodeTitle">Identify episode</string>
+    <string name="identifyMovieTitle">Identify movie</string>
+    <string name="identifyShow">Identify show</string>
+    <string name="identifying_episodes">Identifying episodes…</string>
+    <string name="identifying_movie">Identifying movie…</string>
+    <string name="identifying_show">Identifying show…</string>
+    <string name="improve_filename_recognition">Improve filename recognition</string>
+    <string name="improve_filename_recognition_description">Anonymously share filenames in order to improve filename recognition in future versions.</string>
+    <string name="inLibrary">In library</string>
+    <string name="includeAdultContent">Include adult content</string>
+    <string name="includeAdultContentDescription">Include adult titles when searching for movies.</string>
+    <string name="installed_media_apps">Media apps</string>
+    <string name="large">Large</string>
+    <string name="leftEpisodesCount">%d left</string>
+    <string name="library_FloatingActionButton_author">Oleksandr Melnykov</string>
+    <string name="library_FloatingActionButton_authorWebsite">https://github.com/makovkastar/FloatingActionButton</string>
+    <string name="library_FloatingActionButton_isOpenSource">true</string>
+    <string name="library_FloatingActionButton_libraryDescription">Android Google+ like floating action button which reacts on the list view scrolling events. Becomes visible when the list view is scrolled up and invisible when scrolled down.</string>
+    <string name="library_FloatingActionButton_libraryName">FloatingActionButton</string>
+    <string name="library_FloatingActionButton_libraryVersion">1.0.0</string>
+    <string name="library_FloatingActionButton_libraryWebsite">https://github.com/makovkastar/FloatingActionButton</string>
+    <string name="library_FloatingActionButton_licenseId">mit</string>
+    <string name="library_FloatingActionButton_repositoryLink">https://github.com/makovkastar/FloatingActionButton</string>
+    <string name="listView">List view</string>
+    <string name="loading_movie_parts">Loading movie parts</string>
+    <string name="logIn">Log in</string>
+    <string name="logged_in_as">Logged in as %s</string>
+    <string name="loginAsAnonymous">Log in as anonymous</string>
+    <string name="loginAsGuest">Log in as guest (for Windows)</string>
+    <string name="loginSucceeded">Log in succeeded!</string>
+    <string name="lookingForNetworkSources">Looking for network sources…</string>
+    <string name="mainWebLoading">Loading…</string>
+    <string name="markedAsUnwatched">Marked as unwatched!</string>
+    <string name="markedAsWatched">Marked as watched!</string>
+    <string name="menuFavouriteTitle">Add favorite</string>
+    <string name="menuFavouriteTitleRemove">Remove favorite</string>
+    <string name="menuRemoveTitle">Remove</string>
+    <string name="menuShareTitle">Share</string>
+    <string name="menuUpdateTitle">Update library</string>
+    <string name="minutes">minutes</string>
+    <string name="movingDataFiles">Moving data files</string>
+    <string name="movingDataFilesDescription">Mizuu will start shortly. This may take a few minutes…</string>
+    <string name="network">Network shares</string>
+    <string name="networkDomain">Domain name</string>
+    <string name="networkIpAddress">IP address or host name</string>
+    <string name="networkLogin">Log in to Samba server</string>
+    <string name="networkPassword">Password</string>
+    <string name="networkUsername">Username</string>
+    <string name="newestFirst">Newest first</string>
+    <string name="newuser_btStartSearch">Start update</string>
+    <string name="nextUpdateIn">Next update in</string>
+    <string name="noConnection">"Connection failed. Make sure you're connected to a network!"</string>
+    <string name="noFileSources">No file sources</string>
+    <string name="noInternet">No active Internet connection</string>
+    <string name="noUnidentifiedFiles">No unidentified files</string>
+    <string name="noVideoPlayerFound">No compatible video player found!</string>
+    <string name="no_actors">No actors found!</string>
+    <string name="no_actors_description">"It seems like there aren't any actors…"</string>
+    <string name="no_biography">No biography available.</string>
+    <string name="no_content">No content</string>
+    <string name="no_episodes_to_play">Sorry, no episodes to play!</string>
+    <string name="no_favorites">No favorites</string>
+    <string name="no_favorites_description">Don\'t you like movies?</string>
+    <string name="no_favorites_description_tv">Don\'t you like TV shows?</string>
+    <string name="no_movie_collections">No movie collections</string>
+    <string name="no_movie_collections_description">It happens to the best of us…</string>
+    <string name="no_movies">No movies</string>
+    <string name="no_movies_description">Select <b>Update library</b> from the menu to add movies.</string>
+    <string name="no_movies_description_tablet">Select the <b>Update icon</b> from the menu to add movies.</string>
+    <string name="no_new_releases">No new releases</string>
+    <string name="no_new_releases_description">Nothing has happened in the last nine months.</string>
+    <string name="no_parent_folder">No parent folder</string>
+    <string name="no_results_found">No results found</string>
+    <string name="no_search_results">Nothing found</string>
+    <string name="no_search_results_description">Please try again with a different query.</string>
+    <string name="no_tv_shows">No TV shows</string>
+    <string name="no_tv_shows_description">Select <b>Update library</b> from the menu to add TV shows.</string>
+    <string name="no_tv_shows_description_tablet">Select the <b>Update icon</b> from the menu to add TV shows.</string>
+    <string name="no_unwatched_movies">You\'ve watched everything</string>
+    <string name="no_unwatched_movies_description">Good job! Check out the <b>Online Movies</b> section to discover new movies.</string>
+    <string name="no_unwatched_tv_shows_descriptions">Good job!</string>
+    <string name="no_watched_movies">No watched movies</string>
+    <string name="no_watched_movies_description">What are you waiting for?</string>
+    <string name="no_watched_tv_shows">No watched TV shows</string>
+    <string name="normal">Normal</string>
+    <string name="of">of</string>
+    <string name="oldestFirst">Oldest first</string>
+    <string name="openWith">Open with…</string>
+    <string name="options">Options</string>
+    <string name="other">Other</string>
+    <string name="overviewGridItemSizeDescription">Change the size of movie and TV show covers in the overviews.</string>
+    <string name="overviewGridItemSizeTitle">Set overview cover size</string>
+    <string name="part">Part</string>
+    <string name="playPart">Play part</string>
+    <string name="playing_season_episode">Playing %1$s (S%2$sE%3$s): %4$s</string>
+    <string name="prefsCredits">Data sources</string>
+    <string name="prefsCreditsTmdbDescription">www.themoviedb.org</string>
+    <string name="prefsCreditsTmdbTitle">The open movie database</string>
+    <string name="prefsCreditsTraktDescription">www.trakt.tv</string>
+    <string name="prefsCreditsTraktTitle">Trakt.tv</string>
+    <string name="prefsCreditsTvDb">Online TV Database</string>
+    <string name="prefsCreditsTvDbDescription">www.thetvdb.com</string>
+    <string name="prefsCreditsTvRage">TV Rage</string>
+    <string name="prefsCreditsTvRageDescription">www.tvrage.com</string>
+    <string name="prefsCreditsWikipedia">Wikipedia</string>
+    <string name="prefsCreditsWikipediaDescription">www.wikipedia.org</string>
+    <string name="prefsFileSourcesDescription">Configure the file sources to include in library updates.</string>
+    <string name="prefsIdentification">Identification</string>
+    <string name="prefsIdentificationAndSearch">Identification &amp; search</string>
+    <string name="prefsSearchNavTitle">Search</string>
+    <string name="prefsShowGridTitles">Enable movie and show titles in library overview.</string>
+    <string name="prefsShowGridTitlesTitle">Show titles in overview</string>
+    <string name="prefsUI">User Interface</string>
+    <string name="prefsUIGeneral">General</string>
+    <string name="random_movie">Random movie</string>
+    <string name="random_show">Random TV show</string>
+    <string name="recently_aired">Recently aired</string>
+    <string name="recently_aired_description">Nothing has aired in the last three months.</string>
+    <string name="relatedMovies">Similar movies</string>
+    <string name="release_year">Release year</string>
+    <string name="removeAccount">Remove account</string>
+    <string name="removeAll">Remove all</string>
+    <string name="removeAllUnidentifiedFiles">Remove all unidentified files</string>
+    <string name="removeEpisode">Remove episode</string>
+    <string name="removeFromWatchlist">Remove from Watch list</string>
+    <string name="removeMovie">Remove movie</string>
+    <string name="removeShow">Remove TV show</string>
+    <string name="remove_selected_episodes">Remove selected episodes</string>
+    <string name="remove_selected_seasons">Remove selected seasons</string>
+    <string name="removedAccount">Removed account details!</string>
+    <string name="removedFromFavs">Removed from favorites!</string>
+    <string name="removedFromWatchList">Removed from Watchlist!</string>
+    <string name="scanForSources">Scan for network sources</string>
+    <string name="scanning">Scanning</string>
+    <string name="scheduledAtLaunch">At application launch</string>
+    <string name="scheduledEvery12Hours">Every 12 hours</string>
+    <string name="scheduledEvery2Hours">Every 2 hours</string>
+    <string name="scheduledEvery4Hours">Every 4 hours</string>
+    <string name="scheduledEvery6Hours">Every 6 hours</string>
+    <string name="scheduledEveryDay">Every day</string>
+    <string name="scheduledEveryHour">Every hour</string>
+    <string name="scheduledEveryWeek">Every week</string>
+    <string name="scheduledUpdates">Scheduled updates</string>
+    <string name="searchMoviesFromMizuu">Search movies from Mizuu</string>
+    <string name="searchTvShowsFromMizuu">Search TV shows from Mizuu</string>
+    <string name="searching">Searching…</string>
+    <string name="seasons">Seasons</string>
+    <string name="see_more">See more</string>
+    <string name="selectCertification">Select certification</string>
+    <string name="selectFile">Select a file</string>
+    <string name="selectFileSource">Select file source</string>
+    <string name="selectFileToIdentify">Select a file to manually identify.</string>
+    <string name="selectFolder">Select folder</string>
+    <string name="selectGenre">Select genre</string>
+    <string name="selectLogin">Select user login</string>
+    <string name="selectReleaseYear">Select release year</string>
+    <string name="select_upnp_server">Select UPnP server</string>
+    <string name="selected">%1$d selected</string>
+    <string name="set">Set</string>
+    <string name="setEpisodeLayout">TV show episodes layout</string>
+    <string name="setEpisodesLayoutDescription">Use a grid or list view to display TV show episodes.</string>
+    <string name="set_certification">Set certification</string>
+    <string name="set_pref_language_description">Localize movie and TV show information into selected language. Defaults to English.</string>
+    <string name="set_pref_language_title">Set preferred language</string>
+    <string name="set_rating">Set rating</string>
+    <string name="set_runtime">Set runtime</string>
+    <string name="settings_name">Settings</string>
+    <string name="shareWith">Share with…</string>
+    <string name="showDirector">Director</string>
+    <string name="showEpisode">Episode</string>
+    <string name="showGuestStars">Guest stars</string>
+    <string name="showSeason">Season</string>
+    <string name="showWriter">Writer</string>
+    <string name="show_file_location">Show file location(s)</string>
+    <string name="show_file_location_description">Make file location(s) visible in the movie and TV show details view.</string>
+    <string name="sign_in_with_trakt">Sign in with Trakt.tv</string>
+    <string name="small">Small</string>
+    <string name="social">Social</string>
+    <string name="sortAdded">Sort by date added</string>
+    <string name="sortDuration">Sort by duration</string>
+    <string name="sortFirstAired">Sort by first air date</string>
+    <string name="sortNewestEpisode">Sort by newest episode</string>
+    <string name="sortRating">Sort by rating</string>
+    <string name="sortRelease">Sort by release</string>
+    <string name="sortTitle">Sort by title</string>
+    <string name="sortWeightedRating">Sort by weighted rating</string>
+    <string name="stoppingUpdate">Stopping update… This may take a short while.</string>
+    <string name="stringCancelUpdate">Stop update</string>
+    <string name="stringDiscover">Discover</string>
+    <string name="stringEditMovie">Edit movie</string>
+    <string name="stringEditTvShow">Edit TV show</string>
+    <string name="stringEditTvShowEpisode">Edit TV show episode</string>
+    <string name="stringJustAdded">Added</string>
+    <string name="stringLaunchScreen">Launch screen</string>
+    <string name="stringLaunchScreenDescription">Select which section to show at launch.</string>
+    <string name="stringLocal">Local content</string>
+    <string name="stringMarkAsUnwatched">Mark as unwatched</string>
+    <string name="stringMarkAsWatched">Mark as watched</string>
+    <string name="stringMenu">Menu</string>
+    <string name="stringNA">N/A</string>
+    <string name="stringNoPlot">Plot not available.</string>
+    <string name="stringNowPlaying">In theaters</string>
+    <string name="stringPopular">Popular</string>
+    <string name="stringRemoveUnavailableEntries">Remove unavailable files</string>
+    <string name="stringSearch">Search</string>
+    <string name="stringShowAllLanguages">Show all languages</string>
+    <string name="stringSort">Sort</string>
+    <string name="stringSpecials">Specials</string>
+    <string name="stringUpcoming">Upcoming</string>
+    <string name="stringUpdateCancelled">Update stopped!</string>
+    <string name="syncLibraries">Synchronize libraries</string>
+    <string name="syncMovies">Synchronizing movies with Trakt</string>
+    <string name="syncNow">Synchronize now</string>
+    <string name="syncTvShows">Synchronizing TV shows with Trakt</string>
+    <string name="sync_error">Error synchronizing with Trakt!</string>
+    <string name="thirdPartyLibraries">Third party libraries</string>
+    <string name="tmdb_api_key">0fd42d7cf783faf9a5eefeb78e1cc5c9</string>
+    <string name="traktSyncFailed">Trakt synchronization failed</string>
+    <string name="trakt_api_key">2ee0c8a971c6dc94f130a15d5b2b0687f58dfc492c883dd8cf1a241ba8f7fe42</string>
+    <string name="translations">Translations</string>
+    <string name="tvShowEpisodesOrderType">TV show episodes order type</string>
+    <string name="tvShowEpisodesOrderTypeDescription">Show newest or oldest episodes first.</string>
+    <string name="tvShowSeasonsOrderType">TV show seasons order type</string>
+    <string name="tvShowSeasonsOrderTypeDescription">Show newest or oldest seasons first.</string>
+    <string name="tvShowsWithUnwatchedEpisodes">Unwatched shows</string>
+    <string name="tvdb_api_key">3BA50ED32C3FBC05</string>
+    <string name="txtSelectFileSources">Select file sources</string>
+    <string name="unidentified">Unidentified</string>
+    <string name="unidentifiedFiles">Unidentified files</string>
+    <string name="unknownYear">(unknown)</string>
+    <string name="unknown_size">Unknown size</string>
+    <string name="unwatched">(unwatched)</string>
+    <string name="unwatchedEpisodesCount">%d unwatched</string>
+    <string name="unwatched_episodes">Unwatched episodes</string>
+    <string name="unwatched_tv_shows">Unwatched shows</string>
+    <string name="updateCheckBox">Clear library on update</string>
+    <string name="updateMoviesTitle">Update Movies</string>
+    <string name="updateThirdStepDescription">The update process runs in the background and may take up to several minutes. It can be cancelled from the notification drawer.</string>
+    <string name="updateTvShowsTitle">Update TV shows</string>
+    <string name="updatedMovie">Successfully updated movie!</string>
+    <string name="updatedTvShow">Successfully updated TV show!</string>
+    <string name="updatingMovieCollection">Updating movie collection…</string>
+    <string name="updatingMovieFavorites">Updating movie favorites…</string>
+    <string name="updatingMovieInfo">Updating movie information…</string>
+    <string name="updatingMovies">Updating Movies</string>
+    <string name="updatingShowInfo">Updating show information…</string>
+    <string name="updatingTvShowCollection">Updating TV show collection…</string>
+    <string name="updatingTvShowFavorites">Updating TV show favorites…</string>
+    <string name="updatingTvShows">Updating TV Shows</string>
+    <string name="updatingWatchedMovies">Updating watched movies…</string>
+    <string name="updatingWatchedTvShows">Updating watched TV shows…</string>
+    <string name="updatingWatchlist">Updating watchlist…</string>
+    <string name="view_collection_online">View collection online</string>
+    <string name="watchLater">Watch later</string>
+    <string name="watched_episodes">Watched episodes</string>
+    <string name="watched_tv_shows">Watched shows</string>
+    <string name="widgetsMizuuMovies">Mizuu - Movies</string>
+    <string name="widgetsMizuuShows">Mizuu - TV shows</string>
+    <string name="youtube_api_key">add_your_own</string>
+    <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance">
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+        <item name="android:textColorHighlight">?android:textColorHighlight</item>
+        <item name="android:textColorLink">?android:textColorLink</item>
+        <item name="android:textSize">@dimen/abc_text_size_body_1_material</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">@dimen/abc_text_size_body_1_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Body2">
+        <item name="android:textSize">@dimen/abc_text_size_body_2_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Button">
+        <item name="android:textSize">@dimen/abc_text_size_button_material</item>
+        <item name="textAllCaps">true</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">@dimen/abc_text_size_caption_material</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display1">
+        <item name="android:textSize">@dimen/abc_text_size_display_1_material</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display2">
+        <item name="android:textSize">@dimen/abc_text_size_display_2_material</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display3">
+        <item name="android:textSize">@dimen/abc_text_size_display_3_material</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display4">
+        <item name="android:textSize">@dimen/abc_text_size_display_4_material</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Headline">
+        <item name="android:textSize">@dimen/abc_text_size_headline_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Inverse">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Large">
+        <item name="android:textSize">@dimen/abc_text_size_large_material</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Large.Inverse">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Menu"/>
+    <style name="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Menu"/>
+    <style name="Base.TextAppearance.AppCompat.Medium">
+        <item name="android:textSize">@dimen/abc_text_size_medium_material</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Medium.Inverse">
+        <item name="android:textColor">?android:attr/textColorSecondaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Menu">
+        <item name="android:textSize">@dimen/abc_text_size_menu_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.SearchResult" parent="">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Small">
+        <item name="android:textSize">@dimen/abc_text_size_small_material</item>
+        <item name="android:textColor">?android:attr/textColorTertiary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Small.Inverse">
+        <item name="android:textColor">?android:attr/textColorTertiaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Subhead">
+        <item name="android:textSize">@dimen/abc_text_size_subhead_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Subhead.Inverse">
+        <item name="android:textColor">?android:attr/textColorSecondaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Title">
+        <item name="android:textSize">@dimen/abc_text_size_title_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Title.Inverse">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="android:TextAppearance.Small">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="TextAppearance.AppCompat.Subhead">
+        <item name="android:textSize">@dimen/abc_text_size_subtitle_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="TextAppearance.AppCompat.Subhead.Inverse">
+        <item name="android:textSize">@dimen/abc_text_size_subtitle_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textSize">@dimen/abc_text_size_title_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="TextAppearance.AppCompat.Title.Inverse">
+        <item name="android:textSize">@dimen/abc_text_size_title_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="TextAppearance.AppCompat.Subhead">
+        <item name="android:textSize">@dimen/abc_text_size_subtitle_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Title" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textSize">@dimen/abc_text_size_title_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.DropDownItem" parent="android:TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Menu"/>
+    <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Menu"/>
+    <style name="Base.TextAppearance.AppCompat.Widget.Switch" parent="TextAppearance.AppCompat.Button"/>
+    <style name="Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="TextAppearance.AppCompat.Widget.ActionBar.Subtitle"/>
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Title" parent="TextAppearance.AppCompat.Widget.ActionBar.Title"/>
+    <style name="Base.Theme.AppCompat" parent="Base.V7.Theme.AppCompat"/>
+    <style name="Base.Theme.AppCompat.CompactMenu" parent="">
+        <item name="android:itemTextAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:listViewStyle">@style/Widget.AppCompat.ListView.Menu</item>
+    </style>
+    <style name="Base.Theme.AppCompat.Dialog" parent="Base.V7.Theme.AppCompat.Dialog"/>
+    <style name="Base.Theme.AppCompat.Dialog.FixedSize">
+        <item name="windowFixedWidthMajor">@dimen/dialog_fixed_width_major</item>
+        <item name="windowFixedWidthMinor">@dimen/dialog_fixed_width_minor</item>
+        <item name="windowFixedHeightMajor">@dimen/dialog_fixed_height_major</item>
+        <item name="windowFixedHeightMinor">@dimen/dialog_fixed_height_minor</item>
+    </style>
+    <style name="Base.Theme.AppCompat.DialogWhenLarge" parent="Theme.AppCompat"/>
+    <style name="Base.Theme.AppCompat.Light" parent="Base.V7.Theme.AppCompat.Light"/>
+    <style name="Base.Theme.AppCompat.Light.DarkActionBar" parent="Base.Theme.AppCompat.Light">
+        <item name="actionBarPopupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_dark</item>
+        <item name="colorPrimary">@color/primary_material_dark</item>
+    </style>
+    <style name="Base.Theme.AppCompat.Light.Dialog" parent="Base.Theme.AppCompat.Dialog"/>
+    <style name="Base.Theme.AppCompat.Light.Dialog.FixedSize">
+        <item name="windowFixedWidthMajor">@dimen/dialog_fixed_width_major</item>
+        <item name="windowFixedWidthMinor">@dimen/dialog_fixed_width_minor</item>
+        <item name="windowFixedHeightMajor">@dimen/dialog_fixed_height_major</item>
+        <item name="windowFixedHeightMinor">@dimen/dialog_fixed_height_minor</item>
+    </style>
+    <style name="Base.Theme.AppCompat.Light.DialogWhenLarge" parent="Theme.AppCompat.Light"/>
+    <style name="Base.ThemeOverlay.AppCompat" parent=""/>
+    <style name="Base.ThemeOverlay.AppCompat.ActionBar">
+        <item name="colorControlNormal">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Dark">
+        <item name="android:windowBackground">@color/background_material_dark</item>
+        <item name="android:colorForeground">@color/bright_foreground_material_dark</item>
+        <item name="android:colorForegroundInverse">@color/bright_foreground_material_light</item>
+        <item name="android:colorBackground">@color/background_material_dark</item>
+        <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_dark</item>
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorTertiary">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorHint">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHintInverse">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHighlight">@color/highlighted_text_material_dark</item>
+        <item name="android:textColorLink">@color/link_text_material_dark</item>
+
+        <!-- Action Bar styles -->
+        <item name="actionBarItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+
+        <!-- SearchView styles -->
+        <item name="android:autoCompleteTextViewStyle">@style/Widget.AppCompat.AutoCompleteTextView</item>
+        <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="colorControlNormal">?android:attr/textColorSecondary</item>
+        <item name="colorControlHighlight">@color/ripple_material_dark</item>
+        <item name="colorSwitchThumbNormal">@color/switch_thumb_normal_material_dark</item>
+
+        <!-- Used by MediaRouter -->
+        <item name="isLightTheme">false</item>
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlNormal">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Light">
+        <item name="android:windowBackground">@color/background_material_light</item>
+        <item name="android:colorForeground">@color/bright_foreground_material_light</item>
+        <item name="android:colorForegroundInverse">@color/bright_foreground_material_dark</item>
+        <item name="android:colorBackground">@color/background_material_light</item>
+        <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_light</item>
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorTertiary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_light</item>
+        <item name="android:textColorPrimaryInverseDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
+        <item name="android:textColorHint">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHintInverse">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHighlight">@color/highlighted_text_material_light</item>
+        <item name="android:textColorLink">@color/link_text_material_light</item>
+        <item name="actionBarItemBackground">@drawable/abc_item_background_holo_light</item>
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_light</item>
+
+        <!-- SearchView attributes -->
+        <item name="android:autoCompleteTextViewStyle">@style/Widget.AppCompat.Light.AutoCompleteTextView</item>
+        <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="colorControlNormal">?android:attr/textColorSecondary</item>
+        <item name="colorControlHighlight">@color/ripple_material_light</item>
+        <item name="colorSwitchThumbNormal">@color/switch_thumb_normal_material_light</item>
+
+        <!-- Used by MediaRouter -->
+        <item name="isLightTheme">true</item>
+    </style>
+    <style name="Base.V7.Theme.AppCompat" parent="Platform.AppCompat">
+        <item name="windowActionBar">true</item>
+        <item name="windowActionBarOverlay">false</item>
+
+        <!-- Used by MediaRouter -->
+        <item name="isLightTheme">false</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="selectableItemBackgroundBorderless">?attr/selectableItemBackground</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_mtrl_alpha</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_mtrl_alpha</item>
+
+        <!-- Action Bar Styles -->
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionOverflowMenuStyle">@style/Widget.AppCompat.PopupMenu.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.ActionBar.Solid</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.ActionBar</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height_material</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackgroundBorderless</item>
+        <item name="actionMenuTextAppearance">@style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_material</item>
+        <item name="actionModeSplitBackground">?attr/colorPrimaryDark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+        <item name="actionModeCutDrawable">@drawable/abc_ic_menu_cut_mtrl_alpha</item>
+        <item name="actionModeCopyDrawable">@drawable/abc_ic_menu_copy_mtrl_am_alpha</item>
+        <item name="actionModePasteDrawable">@drawable/abc_ic_menu_paste_mtrl_am_alpha</item>
+        <item name="actionModeSelectAllDrawable">@drawable/abc_ic_menu_selectall_mtrl_alpha</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_mtrl_alpha</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="panelBackground">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
+        <item name="android:panelBackground">@android:color/transparent</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+
+        <!-- List attributes -->
+        <item name="textAppearanceListItem">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="textAppearanceListItemSmall">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="listPreferredItemHeight">64dp</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">16dip</item>
+        <item name="listPreferredItemPaddingRight">16dip</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.AppCompat.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.AppCompat.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchViewStyle">@style/Widget.AppCompat.SearchView</item>
+        <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text</item>
+        <item name="textAppearanceSearchResultTitle">@style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">@style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+
+        <!-- Toolbar styles -->
+        <item name="toolbarStyle">@style/Widget.AppCompat.Toolbar</item>
+        <item name="toolbarNavigationButtonStyle">@style/Widget.AppCompat.Toolbar.Button.Navigation</item>
+        <item name="android:editTextStyle">@style/Widget.AppCompat.EditText</item>
+        <item name="editTextBackground">@drawable/abc_edit_text_material</item>
+        <item name="editTextColor">?android:attr/textColorPrimary</item>
+
+        <!-- Color palette -->
+        <item name="colorPrimaryDark">@color/primary_dark_material_dark</item>
+        <item name="colorPrimary">@color/primary_material_dark</item>
+        <item name="colorAccent">@color/accent_material_dark</item>
+        <item name="colorControlNormal">?android:attr/textColorSecondary</item>
+        <item name="colorControlActivated">?attr/colorAccent</item>
+        <item name="colorControlHighlight">@color/ripple_material_dark</item>
+        <item name="colorSwitchThumbNormal">@color/switch_thumb_normal_material_dark</item>
+        <item name="drawerArrowStyle">@style/Widget.AppCompat.DrawerArrowToggle</item>
+        <item name="switchStyle">@style/Widget.AppCompat.CompoundButton.Switch</item>
+    </style>
+    <style name="Base.V7.Theme.AppCompat.Dialog" parent="Platform.AppCompat.Dialog">
+        <item name="windowActionBar">true</item>
+        <item name="windowActionBarOverlay">false</item>
+        <item name="isLightTheme">false</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="selectableItemBackgroundBorderless">?attr/selectableItemBackground</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_mtrl_alpha</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_mtrl_alpha</item>
+
+        <!-- Action Bar Styles -->
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionOverflowMenuStyle">@style/Widget.AppCompat.PopupMenu.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.ActionBar.Solid</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.ActionBar</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height_material</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="actionMenuTextAppearance">@style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_material</item>
+        <item name="actionModeSplitBackground">?attr/colorPrimaryDark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+        <item name="actionModeCutDrawable">@drawable/abc_ic_menu_cut_mtrl_alpha</item>
+        <item name="actionModeCopyDrawable">@drawable/abc_ic_menu_copy_mtrl_am_alpha</item>
+        <item name="actionModePasteDrawable">@drawable/abc_ic_menu_paste_mtrl_am_alpha</item>
+        <item name="actionModeSelectAllDrawable">@drawable/abc_ic_menu_selectall_mtrl_alpha</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_mtrl_alpha</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="panelBackground">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
+        <item name="android:panelBackground">@android:color/transparent</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+
+        <!-- List attributes -->
+        <item name="textAppearanceListItem">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="textAppearanceListItemSmall">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="listPreferredItemHeight">64dp</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">16dip</item>
+        <item name="listPreferredItemPaddingRight">16dip</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.AppCompat.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.AppCompat.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchViewStyle">@style/Widget.AppCompat.SearchView</item>
+        <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text</item>
+        <item name="textAppearanceSearchResultTitle">@style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">@style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+
+        <!-- Toolbar styles -->
+        <item name="toolbarStyle">@style/Widget.AppCompat.Toolbar</item>
+        <item name="toolbarNavigationButtonStyle">@style/Widget.AppCompat.Toolbar.Button.Navigation</item>
+        <item name="android:editTextStyle">@style/Widget.AppCompat.EditText</item>
+        <item name="editTextBackground">@drawable/abc_edit_text_material</item>
+        <item name="editTextColor">?android:attr/textColorPrimary</item>
+
+        <!-- Color palette -->
+        <item name="colorPrimaryDark">@color/primary_dark_material_dark</item>
+        <item name="colorPrimary">@color/primary_material_dark</item>
+        <item name="colorAccent">@color/accent_material_dark</item>
+        <item name="colorControlNormal">?android:attr/textColorSecondary</item>
+        <item name="colorControlActivated">?attr/colorAccent</item>
+        <item name="colorControlHighlight">@color/ripple_material_dark</item>
+        <item name="colorSwitchThumbNormal">@color/switch_thumb_normal_material_dark</item>
+        <item name="switchStyle">@style/Widget.AppCompat.CompoundButton.Switch</item>
+    </style>
+    <style name="Base.V7.Theme.AppCompat.Light" parent="Platform.AppCompat.Light">
+        <item name="windowActionBar">true</item>
+        <item name="windowActionBarOverlay">false</item>
+
+        <!-- Used by MediaRouter -->
+        <item name="isLightTheme">true</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_light</item>
+        <item name="selectableItemBackgroundBorderless">?attr/selectableItemBackground</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_mtrl_alpha</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_mtrl_alpha</item>
+
+        <!-- Action Bar Styles -->
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+        <item name="actionOverflowMenuStyle">@style/Widget.AppCompat.Light.PopupMenu.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.Light.ActionBar.Solid</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.ActionBar</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height_material</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackgroundBorderless</item>
+        <item name="actionMenuTextAppearance">@style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_material</item>
+        <item name="actionModeSplitBackground">?attr/colorPrimaryDark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+        <item name="actionModeCutDrawable">@drawable/abc_ic_menu_cut_mtrl_alpha</item>
+        <item name="actionModeCopyDrawable">@drawable/abc_ic_menu_copy_mtrl_am_alpha</item>
+        <item name="actionModePasteDrawable">@drawable/abc_ic_menu_paste_mtrl_am_alpha</item>
+        <item name="actionModeSelectAllDrawable">@drawable/abc_ic_menu_selectall_mtrl_alpha</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_mtrl_alpha</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="panelBackground">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
+        <item name="android:panelBackground">@android:color/transparent</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_light</item>
+
+        <!-- List attributes -->
+        <item name="textAppearanceListItem">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="textAppearanceListItemSmall">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="listPreferredItemHeight">64dp</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">16dip</item>
+        <item name="listPreferredItemPaddingRight">16dip</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchViewStyle">@style/Widget.AppCompat.Light.SearchView</item>
+        <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text</item>
+        <item name="textAppearanceSearchResultTitle">@style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">@style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.Light.ActivityChooserView</item>
+
+        <!-- Toolbar styles -->
+        <item name="toolbarStyle">@style/Widget.AppCompat.Toolbar</item>
+        <item name="toolbarNavigationButtonStyle">@style/Widget.AppCompat.Toolbar.Button.Navigation</item>
+        <item name="android:editTextStyle">@style/Widget.AppCompat.EditText</item>
+        <item name="editTextBackground">@drawable/abc_edit_text_material</item>
+        <item name="editTextColor">?android:attr/textColorPrimary</item>
+
+        <!-- Color palette -->
+        <item name="colorPrimaryDark">@color/primary_dark_material_light</item>
+        <item name="colorPrimary">@color/primary_material_light</item>
+        <item name="colorAccent">@color/accent_material_light</item>
+        <item name="colorControlNormal">?android:attr/textColorSecondary</item>
+        <item name="colorControlActivated">?attr/colorAccent</item>
+        <item name="colorControlHighlight">@color/ripple_material_light</item>
+        <item name="colorSwitchThumbNormal">@color/switch_thumb_normal_material_light</item>
+        <item name="drawerArrowStyle">@style/Widget.AppCompat.DrawerArrowToggle</item>
+        <item name="switchStyle">@style/Widget.AppCompat.CompoundButton.Switch</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar" parent="">
+        <item name="displayOptions">showTitle</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle</item>
+        <item name="background">@null</item>
+        <item name="backgroundStacked">@null</item>
+        <item name="backgroundSplit">@null</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="elevation">8dp</item>
+        <item name="popupTheme">?attr/actionBarPopupTheme</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.Solid">
+        <item name="background">?attr/colorPrimary</item>
+        <item name="backgroundStacked">?attr/colorPrimary</item>
+        <item name="backgroundSplit">?attr/colorPrimary</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.TabBar" parent="">
+        <item name="divider">?attr/actionBarDivider</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">8dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.TabText" parent="">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:maxWidth">180dp</item>
+        <item name="textAllCaps">true</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.TabView" parent="">
+        <item name="android:background">@drawable/abc_tab_indicator_material</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:minWidth">80dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionButton" parent="">
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:minWidth">@dimen/abc_action_button_min_width_material</item>
+        <item name="android:minHeight">@dimen/abc_action_button_min_height_material</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLines">2</item>
+        <item name="textAllCaps">@bool/abc_config_actionMenuItemAllCaps</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionButton.CloseMode">
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:src">@drawable/abc_ic_menu_moreoverflow_mtrl_alpha</item>
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:contentDescription">@string/abc_action_menu_overflow_description</item>
+        <item name="android:minWidth">@dimen/abc_action_button_min_width_overflow_material</item>
+        <item name="android:minHeight">@dimen/abc_action_button_min_height_material</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionMode" parent="">
+        <item name="background">?attr/actionModeBackground</item>
+        <item name="backgroundSplit">?attr/actionModeSplitBackground</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle</item>
+        <item name="closeItemLayout">@layout/abc_action_mode_close_item_material</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActivityChooserView" parent="">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/abc_ab_share_pack_holo_dark</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">6dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.AutoCompleteTextView" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abc_popup_background_mtrl_mult</item>
+        <item name="android:textColor">?attr/editTextColor</item>
+    </style>
+    <style name="Base.Widget.AppCompat.CompoundButton.Switch" parent="android:Widget.CompoundButton">
+        <item name="track">@drawable/abc_switch_track_mtrl_alpha</item>
+        <item name="android:thumb">@drawable/abc_switch_thumb_material</item>
+        <item name="switchTextAppearance">@style/TextAppearance.AppCompat.Widget.Switch</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="showText">false</item>
+    </style>
+    <style name="Base.Widget.AppCompat.DrawerArrowToggle" parent="">
+        <item name="color">?android:attr/textColorSecondary</item>
+        <item name="thickness">2dp</item>
+        <item name="barSize">18dp</item>
+        <item name="gapBetweenBars">3dp</item>
+        <item name="topBottomBarArrowSize">11.31dp</item>
+        <item name="middleBarArrowSize">16dp</item>
+        <item name="drawableSize">24dp</item>
+        <item name="spinBars">true</item>
+    </style>
+    <style name="Base.Widget.AppCompat.DropDownItem.Spinner" parent="">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.DropDownItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="Base.Widget.AppCompat.EditText" parent="android:Widget.EditText">
+        <item name="android:background">?attr/editTextBackground</item>
+        <item name="android:textColor">?attr/editTextColor</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="background">?attr/colorPrimary</item>
+        <item name="backgroundStacked">?attr/colorPrimary</item>
+        <item name="backgroundSplit">?attr/colorPrimary</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabBar" parent="Base.Widget.AppCompat.ActionBar.TabBar"/>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText" parent="Base.Widget.AppCompat.ActionBar.TabText"/>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="Base.Widget.AppCompat.Light.ActionBar.TabText">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium.Inverse</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabView" parent="Base.Widget.AppCompat.ActionBar.TabView">
+        <item name="android:background">@drawable/abc_tab_indicator_material</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActivityChooserView" parent="Base.Widget.AppCompat.ActivityChooserView">
+        <item name="android:background">@drawable/abc_ab_share_pack_holo_light</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.AutoCompleteTextView" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.PopupMenu" parent="@style/Widget.AppCompat.ListPopupWindow"/>
+    <style name="Base.Widget.AppCompat.Light.PopupMenu.Overflow">
+        <item name="overlapAnchor">true</item>
+        <item name="android:dropDownHorizontalOffset">-4dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ListPopupWindow" parent="">
+        <item name="android:dropDownSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:popupBackground">@drawable/abc_popup_background_mtrl_mult</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ListView.DropDown" parent="android:Widget.ListView">
+        <item name="android:listSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:divider">@null</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ListView.Menu" parent="android:Widget.ListView.Menu">
+        <item name="android:listSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:divider">?attr/dividerHorizontal</item>
+    </style>
+    <style name="Base.Widget.AppCompat.PopupMenu" parent="@style/Widget.AppCompat.ListPopupWindow"/>
+    <style name="Base.Widget.AppCompat.PopupMenu.Overflow">
+        <item name="overlapAnchor">true</item>
+        <item name="android:dropDownHorizontalOffset">-4dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.PopupWindow" parent="android:Widget.PopupWindow"/>
+    <style name="Base.Widget.AppCompat.ProgressBar" parent="android:Widget.ProgressBar">
+        <item name="android:minWidth">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:maxWidth">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:minHeight">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:maxHeight">@dimen/abc_action_bar_progress_bar_size</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ProgressBar.Horizontal" parent="android:Widget.ProgressBar.Horizontal"/>
+    <style name="Base.Widget.AppCompat.SearchView" parent="android:Widget">
+        <item name="layout">@layout/abc_search_view</item>
+        <item name="queryBackground">@drawable/abc_textfield_search_material</item>
+        <item name="submitBackground">@drawable/abc_textfield_search_material</item>
+        <item name="closeIcon">@drawable/abc_ic_clear_mtrl_alpha</item>
+        <item name="searchIcon">@drawable/abc_ic_search_api_mtrl_alpha</item>
+        <item name="goIcon">@drawable/abc_ic_go_search_api_mtrl_alpha</item>
+        <item name="voiceIcon">@drawable/abc_ic_voice_search_api_mtrl_alpha</item>
+        <item name="commitIcon">@drawable/abc_ic_commit_search_api_mtrl_alpha</item>
+        <item name="suggestionRowLayout">@layout/abc_search_dropdown_item_icons_2line</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Spinner" parent="android:Widget.Spinner">
+        <item name="android:background">@drawable/abc_spinner_mtrl_am_alpha</item>
+        <item name="android:dropDownSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Spinner.DropDown.ActionBar" parent="android:Widget">
+        <item name="spinnerMode">dropdown</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/abc_spinner_mtrl_am_alpha</item>
+        <item name="android:dropDownSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:popupBackground">@drawable/abc_popup_background_mtrl_mult</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="overlapAnchor">true</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+        <item name="popupPromptView">@layout/abc_simple_dropdown_hint</item>
+        <item name="android:gravity">left|start|center_vertical</item>
+        <item name="disableChildrenWhenDisabled">true</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Toolbar" parent="android:Widget">
+        <item name="titleTextAppearance">@style/TextAppearance.Widget.AppCompat.Toolbar.Title</item>
+        <item name="subtitleTextAppearance">@style/TextAppearance.Widget.AppCompat.Toolbar.Subtitle</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="titleMargins">4dp</item>
+        <item name="maxButtonHeight">56dp</item>
+        <item name="collapseIcon">?attr/homeAsUpIndicator</item>
+        <item name="collapseContentDescription">@string/abc_toolbar_collapse_description</item>
+        <item name="contentInsetStart">16dp</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation" parent="android:Widget">
+        <item name="android:minWidth">56dp</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+    <style name="Button.RightAligned" parent="android:style/Widget.Holo.Button">
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:layout_gravity">right</item>
+    </style>
+    <style name="CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+    <style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <style name="CheckBoxAppTheme" parent="android:Widget.CompoundButton.CheckBox">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="Mizuu.Theme" parent="Mizuu.Theme.Base">
+
+    </style>
+    <style name="Mizuu.Theme.ActionButton.Overflow" parent="@style/Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_more_vert_white_24dp</item>
+    </style>
+    <style name="Mizuu.Theme.Base" parent="Theme.AppCompat">
+        <item name="android:listSelector">@drawable/list_selector</item>
+        <item name="android:windowBackground">@drawable/bg</item>
+        <item name="android:editTextStyle">@style/RobotoEditTextStyle</item>
+        <item name="android:textViewStyle">@style/RobotoTextViewStyle</item>
+        <item name="android:checkboxStyle">@style/CheckBoxAppTheme</item>
+        <item name="actionOverflowButtonStyle">@style/Mizuu.Theme.ActionButton.Overflow</item>
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorAccent">@color/color_accent</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="colorControlNormal">#aaffffff</item>
+        <item name="colorControlActivated">#fff</item>
+        <item name="colorControlHighlight">#fff</item>
+        <item name="colorSwitchThumbNormal">#b0b0b0</item>
+    </style>
+    <style name="Mizuu.Theme.Dialog" parent="android:style/Theme.Holo.Dialog"/>
+    <style name="Mizuu.Theme.NoBackground" parent="@style/Mizuu.Theme">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Mizuu.Theme.Overview" parent="Mizuu.Theme">
+
+    </style>
+    <style name="Mizuu.Theme.Preference" parent="android:Theme.Holo">
+        <item name="android:listSelector">@drawable/list_selector</item>
+        <item name="android:windowBackground">@drawable/bg</item>
+        <item name="android:editTextStyle">@style/RobotoEditTextStyle</item>
+        <item name="android:textViewStyle">@style/RobotoTextViewStyle</item>
+        <item name="android:checkboxStyle">@style/CheckBoxAppTheme</item>
+        <item name="android:actionOverflowButtonStyle">@style/Mizuu.Theme.ActionButton.Overflow</item>
+        <item name="android:actionBarStyle">@style/Mizuu.Theme.Preference.ActionBar</item>
+    </style>
+    <style name="Mizuu.Theme.Preference.ActionBar" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">#aa000000</item>
+    </style>
+    <style name="Mizuu.Theme.Translucent" parent="@style/Mizuu.Theme">
+    </style>
+    <style name="Mizuu.Theme.Translucent.FullScreen" parent="@style/Mizuu.Theme.Translucent">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Mizuu.Theme.Transparent" parent="@style/Mizuu.Theme">
+    </style>
+    <style name="Mizuu.Theme.Transparent.Dialog" parent="android:Theme.Holo">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="Mizuu.Theme.Transparent.FullScreen" parent="@style/Mizuu.Theme.Transparent">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Platform.AppCompat" parent="android:Theme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+
+        <!-- Window colors -->
+        <item name="android:colorForeground">@color/bright_foreground_material_dark</item>
+        <item name="android:colorForegroundInverse">@color/bright_foreground_material_light</item>
+        <item name="android:colorBackground">@color/background_material_dark</item>
+        <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_dark</item>
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowBackground">@color/background_material_dark</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorTertiary">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorHint">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHintInverse">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHighlight">@color/highlighted_text_material_dark</item>
+        <item name="android:textColorLink">@color/link_text_material_dark</item>
+
+        <!-- Text styles -->
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+        <item name="android:textAppearanceInverse">@style/TextAppearance.AppCompat.Inverse</item>
+        <item name="android:textAppearanceLarge">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:textAppearanceLargeInverse">@style/TextAppearance.AppCompat.Large.Inverse</item>
+        <item name="android:textAppearanceMedium">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textAppearanceMediumInverse">@style/TextAppearance.AppCompat.Medium.Inverse</item>
+        <item name="android:textAppearanceSmall">@style/TextAppearance.AppCompat.Small</item>
+        <item name="android:textAppearanceSmallInverse">@style/TextAppearance.AppCompat.Small.Inverse</item>
+        <item name="android:spinnerStyle">@style/Widget.AppCompat.Spinner</item>
+        <item name="android:dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+        <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
+    </style>
+    <style name="Platform.AppCompat.Dialog" parent="android:Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+
+        <!-- Window colors -->
+        <item name="android:colorForeground">@color/bright_foreground_material_dark</item>
+        <item name="android:colorForegroundInverse">@color/bright_foreground_material_light</item>
+        <item name="android:colorBackground">@color/background_material_dark</item>
+        <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_dark</item>
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowBackground">@color/background_material_dark</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorTertiary">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorHint">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHintInverse">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHighlight">@color/highlighted_text_material_dark</item>
+        <item name="android:textColorLink">@color/link_text_material_dark</item>
+
+        <!-- Text styles -->
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+        <item name="android:textAppearanceInverse">@style/TextAppearance.AppCompat.Inverse</item>
+        <item name="android:textAppearanceLarge">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:textAppearanceLargeInverse">@style/TextAppearance.AppCompat.Large.Inverse</item>
+        <item name="android:textAppearanceMedium">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textAppearanceMediumInverse">@style/TextAppearance.AppCompat.Medium.Inverse</item>
+        <item name="android:textAppearanceSmall">@style/TextAppearance.AppCompat.Small</item>
+        <item name="android:textAppearanceSmallInverse">@style/TextAppearance.AppCompat.Small.Inverse</item>
+        <item name="android:spinnerStyle">@style/Widget.AppCompat.Spinner</item>
+        <item name="android:dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+        <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
+    </style>
+    <style name="Platform.AppCompat.Light" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+
+        <!-- Window colors -->
+        <item name="android:colorForeground">@color/bright_foreground_material_light</item>
+        <item name="android:colorForegroundInverse">@color/bright_foreground_material_dark</item>
+        <item name="android:colorBackground">@color/background_material_light</item>
+        <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_light</item>
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowBackground">@color/background_material_light</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorTertiary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_light</item>
+        <item name="android:textColorPrimaryInverseDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
+        <item name="android:textColorHint">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHintInverse">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHighlight">@color/highlighted_text_material_light</item>
+        <item name="android:textColorLink">@color/link_text_material_light</item>
+
+        <!-- Text styles -->
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+        <item name="android:textAppearanceInverse">@style/TextAppearance.AppCompat.Inverse</item>
+        <item name="android:textAppearanceLarge">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:textAppearanceLargeInverse">@style/TextAppearance.AppCompat.Large.Inverse</item>
+        <item name="android:textAppearanceMedium">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textAppearanceMediumInverse">@style/TextAppearance.AppCompat.Medium.Inverse</item>
+        <item name="android:textAppearanceSmall">@style/TextAppearance.AppCompat.Small</item>
+        <item name="android:textAppearanceSmallInverse">@style/TextAppearance.AppCompat.Small.Inverse</item>
+        <item name="android:spinnerStyle">@style/Widget.AppCompat.Spinner</item>
+        <item name="android:dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+        <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
+    </style>
+    <style name="Platform.AppCompat.Light.Dialog" parent="Platform.AppCompat.Dialog"/>
+    <style name="RobotoEditTextStyle" parent="android:Widget.EditText">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="RobotoTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.ActionBar.TitleItem" parent="android:Widget">
+        <item name="android:layout_gravity">center_vertical|left</item>
+        <item name="android:paddingRight">8dp</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.ActionButton.CloseMode" parent="Base.Widget.AppCompat.ActionButton.CloseMode">
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.ActionButton.Overflow" parent="Base.Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">12dp</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem" parent="android:Widget">
+        <item name="android:paddingRight">16dp</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.InternalGroup" parent="android:Widget">
+        <item name="android:layout_marginLeft">16dp</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.Text" parent="android:Widget">
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown" parent="android:Widget">
+        <item name="android:paddingLeft">@dimen/abc_dropdownitem_text_padding_left</item>
+        <item name="android:paddingRight">4dp</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Icon1" parent="android:Widget">
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Icon2" parent="android:Widget">
+        <item name="android:layout_toLeftOf">@id/edit_query</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Query" parent="android:Widget">
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Text" parent="Base.Widget.AppCompat.DropDownItem.Spinner">
+        <item name="android:layout_toLeftOf">@android:id/icon2</item>
+        <item name="android:layout_toRightOf">@android:id/icon1</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.SearchView.MagIcon" parent="android:Widget">
+        <item name="android:layout_marginLeft">@dimen/abc_dropdownitem_text_padding_left</item>
+    </style>
+    <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
+    <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>
+    <style name="TextAppearance.AppCompat.Body2" parent="Base.TextAppearance.AppCompat.Body2"/>
+    <style name="TextAppearance.AppCompat.Button" parent="Base.TextAppearance.AppCompat.Button"/>
+    <style name="TextAppearance.AppCompat.Caption" parent="Base.TextAppearance.AppCompat.Caption"/>
+    <style name="TextAppearance.AppCompat.Display1" parent="Base.TextAppearance.AppCompat.Display1"/>
+    <style name="TextAppearance.AppCompat.Display2" parent="Base.TextAppearance.AppCompat.Display2"/>
+    <style name="TextAppearance.AppCompat.Display3" parent="Base.TextAppearance.AppCompat.Display3"/>
+    <style name="TextAppearance.AppCompat.Display4" parent="Base.TextAppearance.AppCompat.Display4"/>
+    <style name="TextAppearance.AppCompat.Headline" parent="Base.TextAppearance.AppCompat.Headline"/>
+    <style name="TextAppearance.AppCompat.Inverse" parent="Base.TextAppearance.AppCompat.Inverse"/>
+    <style name="TextAppearance.AppCompat.Large" parent="Base.TextAppearance.AppCompat.Large"/>
+    <style name="TextAppearance.AppCompat.Large.Inverse" parent="Base.TextAppearance.AppCompat.Large.Inverse"/>
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Subtitle" parent="TextAppearance.AppCompat.SearchResult.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Title" parent="TextAppearance.AppCompat.SearchResult.Title"/>
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Large"/>
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small"/>
+    <style name="TextAppearance.AppCompat.Medium" parent="Base.TextAppearance.AppCompat.Medium"/>
+    <style name="TextAppearance.AppCompat.Medium.Inverse" parent="Base.TextAppearance.AppCompat.Medium.Inverse"/>
+    <style name="TextAppearance.AppCompat.Menu" parent="Base.TextAppearance.AppCompat.Menu"/>
+    <style name="TextAppearance.AppCompat.SearchResult.Subtitle" parent="Base.TextAppearance.AppCompat.SearchResult.Subtitle"/>
+    <style name="TextAppearance.AppCompat.SearchResult.Title" parent="Base.TextAppearance.AppCompat.SearchResult.Title"/>
+    <style name="TextAppearance.AppCompat.Small" parent="Base.TextAppearance.AppCompat.Small"/>
+    <style name="TextAppearance.AppCompat.Small.Inverse" parent="Base.TextAppearance.AppCompat.Small.Inverse"/>
+    <style name="TextAppearance.AppCompat.Subhead" parent="Base.TextAppearance.AppCompat.Subhead"/>
+    <style name="TextAppearance.AppCompat.Subhead.Inverse" parent="Base.TextAppearance.AppCompat.Subhead.Inverse"/>
+    <style name="TextAppearance.AppCompat.Title" parent="Base.TextAppearance.AppCompat.Title"/>
+    <style name="TextAppearance.AppCompat.Title.Inverse" parent="Base.TextAppearance.AppCompat.Title.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Menu"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Title"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse" parent="TextAppearance.AppCompat.Widget.ActionMode.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title" parent="Base.TextAppearance.AppCompat.Widget.ActionMode.Title"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse" parent="TextAppearance.AppCompat.Widget.ActionMode.Title"/>
+    <style name="TextAppearance.AppCompat.Widget.DropDownItem" parent="Base.TextAppearance.AppCompat.Widget.DropDownItem"/>
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="Base.TextAppearance.AppCompat.Widget.PopupMenu.Large"/>
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="Base.TextAppearance.AppCompat.Widget.PopupMenu.Small"/>
+    <style name="TextAppearance.AppCompat.Widget.Switch" parent="Base.TextAppearance.AppCompat.Widget.Switch"/>
+    <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item"/>
+    <style name="TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle"/>
+    <style name="TextAppearance.Widget.AppCompat.Toolbar.Title" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Title"/>
+    <style name="Theme.AppCompat" parent="Base.Theme.AppCompat"/>
+    <style name="Theme.AppCompat.CompactMenu" parent="Base.Theme.AppCompat.CompactMenu"/>
+    <style name="Theme.AppCompat.Dialog" parent="Base.Theme.AppCompat.Dialog"/>
+    <style name="Theme.AppCompat.DialogWhenLarge" parent="Base.Theme.AppCompat.DialogWhenLarge"/>
+    <style name="Theme.AppCompat.Light" parent="Base.Theme.AppCompat.Light"/>
+    <style name="Theme.AppCompat.Light.DarkActionBar" parent="Base.Theme.AppCompat.Light.DarkActionBar"/>
+    <style name="Theme.AppCompat.Light.Dialog" parent="Base.Theme.AppCompat.Light.Dialog"/>
+    <style name="Theme.AppCompat.Light.DialogWhenLarge" parent="Base.Theme.AppCompat.Light.DialogWhenLarge"/>
+    <style name="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Theme.AppCompat.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
+    <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
+    <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
+    <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
+    <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar"/>
+    <style name="Widget.AppCompat.ActionBar.Solid" parent="Base.Widget.AppCompat.ActionBar.Solid"/>
+    <style name="Widget.AppCompat.ActionBar.TabBar" parent="Base.Widget.AppCompat.ActionBar.TabBar"/>
+    <style name="Widget.AppCompat.ActionBar.TabText" parent="Base.Widget.AppCompat.ActionBar.TabText"/>
+    <style name="Widget.AppCompat.ActionBar.TabView" parent="Base.Widget.AppCompat.ActionBar.TabView"/>
+    <style name="Widget.AppCompat.ActionButton" parent="Base.Widget.AppCompat.ActionButton"/>
+    <style name="Widget.AppCompat.ActionButton.CloseMode" parent="RtlOverlay.Widget.AppCompat.ActionButton.CloseMode"/>
+    <style name="Widget.AppCompat.ActionButton.Overflow" parent="RtlOverlay.Widget.AppCompat.ActionButton.Overflow"/>
+    <style name="Widget.AppCompat.ActionMode" parent="Base.Widget.AppCompat.ActionMode"/>
+    <style name="Widget.AppCompat.ActivityChooserView" parent="Base.Widget.AppCompat.ActivityChooserView"/>
+    <style name="Widget.AppCompat.AutoCompleteTextView" parent="Base.Widget.AppCompat.AutoCompleteTextView"/>
+    <style name="Widget.AppCompat.CompoundButton.Switch" parent="Base.Widget.AppCompat.CompoundButton.Switch"/>
+    <style name="Widget.AppCompat.DrawerArrowToggle" parent="Base.Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">?attr/colorControlNormal</item>
+    </style>
+    <style name="Widget.AppCompat.DropDownItem.Spinner" parent="RtlOverlay.Widget.AppCompat.Search.DropDown.Text"/>
+    <style name="Widget.AppCompat.EditText" parent="Base.Widget.AppCompat.EditText"/>
+    <style name="Widget.AppCompat.Light.ActionBar" parent="Base.Widget.AppCompat.Light.ActionBar"/>
+    <style name="Widget.AppCompat.Light.ActionBar.Solid" parent="Base.Widget.AppCompat.Light.ActionBar.Solid"/>
+    <style name="Widget.AppCompat.Light.ActionBar.Solid.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar" parent="Base.Widget.AppCompat.Light.ActionBar.TabBar"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabText" parent="Base.Widget.AppCompat.Light.ActionBar.TabText"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabView" parent="Base.Widget.AppCompat.Light.ActionBar.TabView"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabView.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionButton" parent="Widget.AppCompat.ActionButton"/>
+    <style name="Widget.AppCompat.Light.ActionButton.CloseMode" parent="Widget.AppCompat.ActionButton.CloseMode"/>
+    <style name="Widget.AppCompat.Light.ActionButton.Overflow" parent="Widget.AppCompat.ActionButton.Overflow"/>
+    <style name="Widget.AppCompat.Light.ActionMode.Inverse" parent="Widget.AppCompat.ActionMode"/>
+    <style name="Widget.AppCompat.Light.ActivityChooserView" parent="Base.Widget.AppCompat.Light.ActivityChooserView"/>
+    <style name="Widget.AppCompat.Light.AutoCompleteTextView" parent="Base.Widget.AppCompat.Light.AutoCompleteTextView"/>
+    <style name="Widget.AppCompat.Light.DropDownItem.Spinner" parent="Widget.AppCompat.DropDownItem.Spinner"/>
+    <style name="Widget.AppCompat.Light.ListPopupWindow" parent="Widget.AppCompat.ListPopupWindow"/>
+    <style name="Widget.AppCompat.Light.ListView.DropDown" parent="Widget.AppCompat.ListView.DropDown"/>
+    <style name="Widget.AppCompat.Light.PopupMenu" parent="Base.Widget.AppCompat.Light.PopupMenu"/>
+    <style name="Widget.AppCompat.Light.PopupMenu.Overflow" parent="Base.Widget.AppCompat.Light.PopupMenu.Overflow"/>
+    <style name="Widget.AppCompat.Light.SearchView" parent="Widget.AppCompat.SearchView"/>
+    <style name="Widget.AppCompat.Light.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Spinner.DropDown.ActionBar"/>
+    <style name="Widget.AppCompat.ListPopupWindow" parent="Base.Widget.AppCompat.ListPopupWindow"/>
+    <style name="Widget.AppCompat.ListView.DropDown" parent="Base.Widget.AppCompat.ListView.DropDown"/>
+    <style name="Widget.AppCompat.ListView.Menu" parent="Base.Widget.AppCompat.ListView.Menu"/>
+    <style name="Widget.AppCompat.PopupMenu" parent="Base.Widget.AppCompat.PopupMenu"/>
+    <style name="Widget.AppCompat.PopupMenu.Overflow" parent="Base.Widget.AppCompat.PopupMenu.Overflow"/>
+    <style name="Widget.AppCompat.PopupWindow" parent="Base.Widget.AppCompat.PopupWindow"/>
+    <style name="Widget.AppCompat.ProgressBar" parent="Base.Widget.AppCompat.ProgressBar"/>
+    <style name="Widget.AppCompat.ProgressBar.Horizontal" parent="Base.Widget.AppCompat.ProgressBar.Horizontal"/>
+    <style name="Widget.AppCompat.SearchView" parent="Base.Widget.AppCompat.SearchView"/>
+    <style name="Widget.AppCompat.Spinner" parent="Base.Widget.AppCompat.Spinner"/>
+    <style name="Widget.AppCompat.Spinner.DropDown"/>
+    <style name="Widget.AppCompat.Spinner.DropDown.ActionBar" parent="Base.Widget.AppCompat.Spinner.DropDown.ActionBar"/>
+    <style name="Widget.AppCompat.Toolbar" parent="Base.Widget.AppCompat.Toolbar"/>
+    <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation"/>
+    <declare-styleable name="ActionBar">
+
+        <!-- The type of navigation to use. -->
+        <attr name="navigationMode">
+
+            <!-- Normal static title text -->
+            <enum name="normal" value="0"/>
+            <!-- The action bar will use a selection list for navigation. -->
+            <enum name="listMode" value="1"/>
+            <!-- The action bar will use a series of horizontal tabs for navigation. -->
+            <enum name="tabMode" value="2"/>
+        </attr>
+        <!-- Options affecting how the action bar is displayed. -->
+        <attr name="displayOptions">
+            <flag name="none" value="0"/>
+            <flag name="useLogo" value="0x1"/>
+            <flag name="showHome" value="0x2"/>
+            <flag name="homeAsUp" value="0x4"/>
+            <flag name="showTitle" value="0x8"/>
+            <flag name="showCustom" value="0x10"/>
+            <flag name="disableHome" value="0x20"/>
+        </attr>
+        <!-- Specifies title text used for navigationMode="normal" -->
+        <attr name="title"/>
+        <!-- Specifies subtitle text used for navigationMode="normal" -->
+        <attr format="string" name="subtitle"/>
+        <!-- Specifies a style to use for title text. -->
+        <attr format="reference" name="titleTextStyle"/>
+        <!-- Specifies a style to use for subtitle text. -->
+        <attr format="reference" name="subtitleTextStyle"/>
+        <!-- Specifies the drawable used for the application icon. -->
+        <attr format="reference" name="icon"/>
+        <!-- Specifies the drawable used for the application logo. -->
+        <attr format="reference" name="logo"/>
+        <!-- Specifies the drawable used for item dividers. -->
+        <attr format="reference" name="divider"/>
+        <!-- Specifies a background drawable for the action bar. -->
+        <attr format="reference" name="background"/>
+        <!-- Specifies a background drawable for a second stacked row of the action bar. -->
+        <attr format="reference|color" name="backgroundStacked"/>
+        <!-- Specifies a background drawable for the bottom component of a split action bar. -->
+        <attr format="reference|color" name="backgroundSplit"/>
+        <!-- Specifies a layout for custom navigation. Overrides navigationMode. -->
+        <attr format="reference" name="customNavigationLayout"/>
+        <!-- Specifies a fixed height. -->
+        <attr name="height"/>
+        <!-- Specifies a layout to use for the "home" section of the action bar. -->
+        <attr format="reference" name="homeLayout"/>
+        <!-- Specifies a style resource to use for an embedded progress bar. -->
+        <attr format="reference" name="progressBarStyle"/>
+        <!-- Specifies a style resource to use for an indeterminate progress spinner. -->
+        <attr format="reference" name="indeterminateProgressStyle"/>
+        <!-- Specifies the horizontal padding on either end for an embedded progress bar. -->
+        <attr format="dimension" name="progressBarPadding"/>
+        <!-- Up navigation glyph -->
+        <attr name="homeAsUpIndicator"/>
+        <!--
+             Specifies padding that should be applied to the left and right sides of
+             system-provided items in the bar.
+        -->
+        <attr format="dimension" name="itemPadding"/>
+        <!-- Set true to hide the action bar on a vertical nested scroll of content. -->
+        <attr format="boolean" name="hideOnContentScroll"/>
+        <!--
+             Minimum inset for content views within a bar. Navigation buttons and
+             menu views are excepted. Only valid for some themes and configurations.
+        -->
+        <attr format="dimension" name="contentInsetStart"/>
+        <!--
+             Minimum inset for content views within a bar. Navigation buttons and
+             menu views are excepted. Only valid for some themes and configurations.
+        -->
+        <attr format="dimension" name="contentInsetEnd"/>
+        <!--
+             Minimum inset for content views within a bar. Navigation buttons and
+             menu views are excepted. Only valid for some themes and configurations.
+        -->
+        <attr format="dimension" name="contentInsetLeft"/>
+        <!--
+             Minimum inset for content views within a bar. Navigation buttons and
+             menu views are excepted. Only valid for some themes and configurations.
+        -->
+        <attr format="dimension" name="contentInsetRight"/>
+        <!-- Elevation for the action bar itself -->
+        <attr format="dimension" name="elevation"/>
+        <!--
+             Reference to a theme that should be used to inflate popups
+             shown by widgets in the action bar.
+        -->
+        <attr format="reference" name="popupTheme"/>
+    </declare-styleable>
+    <declare-styleable name="ActionBarLayout">
+        <attr name="android:layout_gravity"/>
+    </declare-styleable>
+    <declare-styleable name="ActionMenuItemView">
+        <attr name="android:minWidth"/>
+    </declare-styleable>
+    <declare-styleable name="ActionMenuView">
+        <!-- Size of padding on either end of a divider. -->
+    </declare-styleable>
+    <declare-styleable name="ActionMode">
+
+        <!-- Specifies a style to use for title text. -->
+        <attr name="titleTextStyle"/>
+        <!-- Specifies a style to use for subtitle text. -->
+        <attr name="subtitleTextStyle"/>
+        <!-- Specifies a background for the action mode bar. -->
+        <attr name="background"/>
+        <!-- Specifies a background for the split action mode bar. -->
+        <attr name="backgroundSplit"/>
+        <!-- Specifies a fixed height for the action mode bar. -->
+        <attr name="height"/>
+        <!-- Specifies a layout to use for the "close" item at the starting edge. -->
+        <attr format="reference" name="closeItemLayout"/>
+    </declare-styleable>
+    <declare-styleable name="ActivityChooserView">
+
+        <!-- The maximal number of items initially shown in the activity list. -->
+        <attr format="string" name="initialActivityCount"/>
+        <!--
+             The drawable to show in the button for expanding the activities overflow popup.
+             <strong>Note:</strong> Clients would like to set this drawable
+             as a clue about the action the chosen activity will perform. For
+             example, if share activity is to be chosen the drawable should
+             give a clue that sharing is to be performed.
+        -->
+        <attr format="reference" name="expandActivityOverflowButtonDrawable"/>
+    </declare-styleable>
+    <declare-styleable name="CardView">
+
+        <!-- Background color for CardView. -->
+        <attr format="color" name="cardBackgroundColor"/>
+        <!-- Corner radius for CardView. -->
+        <attr format="dimension" name="cardCornerRadius"/>
+        <!-- Elevation for CardView. -->
+        <attr format="dimension" name="cardElevation"/>
+        <!-- Maximum Elevation for CardView. -->
+        <attr format="dimension" name="cardMaxElevation"/>
+        <!-- Add padding in API v21+ as well to have the same measurements with previous versions. -->
+        <attr format="boolean" name="cardUseCompatPadding"/>
+        <!-- Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners. -->
+        <attr format="boolean" name="cardPreventCornerOverlap"/>
+        <!-- Inner padding between the edges of the Card and children of the CardView. -->
+        <attr format="dimension" name="contentPadding"/>
+        <!-- Inner padding between the left edge of the Card and children of the CardView. -->
+        <attr format="dimension" name="contentPaddingLeft"/>
+        <!-- Inner padding between the right edge of the Card and children of the CardView. -->
+        <attr format="dimension" name="contentPaddingRight"/>
+        <!-- Inner padding between the top edge of the Card and children of the CardView. -->
+        <attr format="dimension" name="contentPaddingTop"/>
+        <!-- Inner padding between the bottom edge of the Card and children of the CardView. -->
+        <attr format="dimension" name="contentPaddingBottom"/>
+    </declare-styleable>
+    <declare-styleable name="CompatTextView">
+
+        <!-- Present the text in ALL CAPS. This may use a small-caps form when available. -->
+        <attr format="reference|boolean" name="textAllCaps"/>
+    </declare-styleable>
+    <declare-styleable name="DrawerArrowToggle">
+
+        <!-- The drawing color for the bars -->
+        <attr format="color" name="color"/>
+        <!-- Whether bars should rotate or not during transition -->
+        <attr format="boolean" name="spinBars"/>
+        <!-- The total size of the drawable -->
+        <attr format="dimension" name="drawableSize"/>
+        <!-- The max gap between the bars when they are parallel to each other -->
+        <attr format="dimension" name="gapBetweenBars"/>
+        <!-- The size of the top and bottom bars when they merge to the middle bar to form an arrow -->
+        <attr format="dimension" name="topBottomBarArrowSize"/>
+        <!-- The size of the middle bar when top and bottom bars merge into middle bar to form an arrow -->
+        <attr format="dimension" name="middleBarArrowSize"/>
+        <!-- The size of the bars when they are parallel to each other -->
+        <attr format="dimension" name="barSize"/>
+        <!-- The thickness (stroke size) for the bar paint -->
+        <attr format="dimension" name="thickness"/>
+    </declare-styleable>
+    <declare-styleable name="FloatingActionButton"><attr format="color" name="fab_colorPressed"/><attr format="color" name="fab_colorNormal"/><attr format="color" name="fab_colorRipple"/><attr format="boolean" name="fab_shadow"/><attr format="enum" name="fab_type"><enum name="normal" value="0"/><enum name="mini" value="1"/></attr></declare-styleable>
+    <declare-styleable name="ForegroundLinearLayout">
+        <attr name="android:foreground"/>
+        <attr name="foregroundInsidePadding"/>
+        <attr name="android:foregroundGravity"/>
+    </declare-styleable>
+    <declare-styleable name="LinearLayoutCompat">
+
+        <!--
+             Should the layout be a column or a row?  Use "horizontal"
+             for a row, "vertical" for a column.  The default is
+             horizontal.
+        -->
+        <attr name="android:orientation"/>
+        <attr name="android:gravity"/>
+        <!--
+             When set to false, prevents the layout from aligning its children's
+             baselines. This attribute is particularly useful when the children
+             use different values for gravity. The default value is true.
+        -->
+        <attr name="android:baselineAligned"/>
+        <!--
+          When a linear layout is part of another layout that is baseline
+          aligned, it can specify which of its children to baseline align to
+          (that is, which child TextView).
+        -->
+        <attr name="android:baselineAlignedChildIndex"/>
+        <!--
+             Defines the maximum weight sum. If unspecified, the sum is computed
+             by adding the layout_weight of all of the children. This can be
+             used for instance to give a single child 50% of the total available
+             space by giving it a layout_weight of 0.5 and setting the weightSum
+             to 1.0.
+        -->
+        <attr name="android:weightSum"/>
+        <!--
+             When set to true, all children with a weight will be considered having
+             the minimum size of the largest child. If false, all children are
+             measured normally.
+        -->
+        <attr format="boolean" name="measureWithLargestChild"/>
+        <!-- Drawable to use as a vertical divider between buttons. -->
+        <attr name="divider"/>
+        <!-- Setting for which dividers to show. -->
+        <attr name="showDividers">
+            <flag name="none" value="0"/>
+            <flag name="beginning" value="1"/>
+            <flag name="middle" value="2"/>
+            <flag name="end" value="4"/>
+        </attr>
+        <!-- Size of padding on either end of a divider. -->
+        <attr format="dimension" name="dividerPadding"/>
+    </declare-styleable>
+    <declare-styleable name="LinearLayoutCompat_Layout">
+        <attr name="android:layout_width"/>
+        <attr name="android:layout_height"/>
+        <attr name="android:layout_weight"/>
+        <attr name="android:layout_gravity"/>
+    </declare-styleable>
+    <declare-styleable name="ListPopupWindow">
+
+        <!-- Amount of pixels by which the drop down should be offset vertically. -->
+        <attr name="android:dropDownVerticalOffset"/>
+        <!-- Amount of pixels by which the drop down should be offset horizontally. -->
+        <attr name="android:dropDownHorizontalOffset"/>
+    </declare-styleable>
+    <declare-styleable name="MenuGroup">
+
+        <!-- The ID of the group. -->
+        <attr name="android:id"/>
+
+        <!--
+             The category applied to all items within this group.
+             (This will be or'ed with the orderInCategory attribute.)
+        -->
+        <attr name="android:menuCategory"/>
+
+        <!--
+             The order within the category applied to all items within this group.
+             (This will be or'ed with the category attribute.)
+        -->
+        <attr name="android:orderInCategory"/>
+
+        <!-- Whether the items are capable of displaying a check mark. -->
+        <attr name="android:checkableBehavior"/>
+
+        <!-- Whether the items are shown/visible. -->
+        <attr name="android:visible"/>
+
+        <!-- Whether the items are enabled. -->
+        <attr name="android:enabled"/>
+    </declare-styleable>
+    <declare-styleable name="MenuItem">
+
+        <!-- The ID of the item. -->
+        <attr name="android:id"/>
+
+        <!--
+             The category applied to the item.
+             (This will be or'ed with the orderInCategory attribute.)
+        -->
+        <attr name="android:menuCategory"/>
+
+        <!--
+             The order within the category applied to the item.
+             (This will be or'ed with the category attribute.)
+        -->
+        <attr name="android:orderInCategory"/>
+
+        <!-- The title associated with the item. -->
+        <attr name="android:title"/>
+
+        <!--
+             The condensed title associated with the item.  This is used in situations where the
+             normal title may be too long to be displayed.
+        -->
+        <attr name="android:titleCondensed"/>
+
+        <!--
+             The icon associated with this item.  This icon will not always be shown, so
+             the title should be sufficient in describing this item.
+        -->
+        <attr name="android:icon"/>
+
+        <!--
+             The alphabetic shortcut key.  This is the shortcut when using a keyboard
+             with alphabetic keys.
+        -->
+        <attr name="android:alphabeticShortcut"/>
+
+        <!--
+             The numeric shortcut key.  This is the shortcut when using a numeric (e.g., 12-key)
+             keyboard.
+        -->
+        <attr name="android:numericShortcut"/>
+
+        <!-- Whether the item is capable of displaying a check mark. -->
+        <attr name="android:checkable"/>
+
+        <!--
+             Whether the item is checked.  Note that you must first have enabled checking with
+             the checkable attribute or else the check mark will not appear.
+        -->
+        <attr name="android:checked"/>
+
+        <!-- Whether the item is shown/visible. -->
+        <attr name="android:visible"/>
+
+        <!-- Whether the item is enabled. -->
+        <attr name="android:enabled"/>
+
+        <!--
+             Name of a method on the Context used to inflate the menu that will be
+             called when the item is clicked.
+        -->
+        <attr name="android:onClick"/>
+
+        <!-- How this item should display in the Action Bar, if present. -->
+        <attr name="showAsAction">
+
+            <!--
+                 Never show this item in an action bar, show it in the overflow menu instead.
+                 Mutually exclusive with "ifRoom" and "always".
+            -->
+            <flag name="never" value="0"/>
+            <!--
+                 Show this item in an action bar if there is room for it as determined
+                 by the system. Favor this option over "always" where possible.
+                 Mutually exclusive with "never" and "always".
+            -->
+            <flag name="ifRoom" value="1"/>
+            <!--
+                 Always show this item in an actionbar, even if it would override
+                 the system's limits of how much stuff to put there. This may make
+                 your action bar look bad on some screens. In most cases you should
+                 use "ifRoom" instead. Mutually exclusive with "ifRoom" and "never".
+            -->
+            <flag name="always" value="2"/>
+            <!--
+                 When this item is shown as an action in the action bar, show a text
+                 label with it even if it has an icon representation.
+            -->
+            <flag name="withText" value="4"/>
+            <!--
+                 This item's action view collapses to a normal menu
+                 item. When expanded, the action view takes over a
+                 larger segment of its container.
+            -->
+            <flag name="collapseActionView" value="8"/>
+        </attr>
+
+        <!--
+             An optional layout to be used as an action view.
+             See {@link android.view.MenuItem#setActionView(android.view.View)}
+             for more info.
+        -->
+        <attr format="reference" name="actionLayout"/>
+
+        <!--
+             The name of an optional View class to instantiate and use as an
+             action view. See {@link android.view.MenuItem#setActionView(android.view.View)}
+             for more info.
+        -->
+        <attr format="string" name="actionViewClass"/>
+
+        <!--
+             The name of an optional ActionProvider class to instantiate an action view
+             and perform operations such as default action for that menu item.
+             See {@link android.view.MenuItem#setActionProvider(android.view.ActionProvider)}
+             for more info.
+        -->
+        <attr format="string" name="actionProviderClass"/>
+    </declare-styleable>
+    <declare-styleable name="MenuView">
+
+        <!-- Default appearance of menu item text. -->
+        <attr name="android:itemTextAppearance"/>
+        <!-- Default horizontal divider between rows of menu items. -->
+        <attr name="android:horizontalDivider"/>
+        <!-- Default vertical divider between menu items. -->
+        <attr name="android:verticalDivider"/>
+        <!-- Default background for the menu header. -->
+        <attr name="android:headerBackground"/>
+        <!-- Default background for each menu item. -->
+        <attr name="android:itemBackground"/>
+        <!-- Default animations for the menu. -->
+        <attr name="android:windowAnimationStyle"/>
+        <!-- Default disabled icon alpha for each menu item that shows an icon. -->
+        <attr name="android:itemIconDisabledAlpha"/>
+        <!-- Whether space should be reserved in layout when an icon is missing. -->
+        <attr format="boolean" name="preserveIconSpacing"/>
+    </declare-styleable>
+    <declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsDividerWidth"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/><attr format="boolean" name="pstsPaddingMiddle"/><attr name="pstsTextStyle"><flag name="normal" value="0x0"/><flag name="bold" value="0x1"/><flag name="italic" value="0x2"/></attr><attr name="pstsTextSelectedStyle"><flag name="normal" value="0x0"/><flag name="bold" value="0x1"/><flag name="italic" value="0x2"/></attr><attr format="float" name="pstsTextAlpha"/><attr format="float" name="pstsTextSelectedAlpha"/></declare-styleable>
+    <declare-styleable name="PopupWindow">
+
+        <!-- Whether the popup window should overlap its anchor view. -->
+        <attr format="boolean" name="overlapAnchor"/>
+        <attr name="android:popupBackground"/>
+    </declare-styleable>
+    <declare-styleable name="PopupWindowBackgroundState">
+
+        <!-- State identifier indicating the popup will be above the anchor. -->
+        <attr format="boolean" name="state_above_anchor"/>
+    </declare-styleable>
+    <declare-styleable name="ScrimInsetsView">
+        <attr format="reference|color" name="insetForeground"/>
+    </declare-styleable>
+    <declare-styleable name="SearchView">
+
+        <!-- The layout to use for the search view. -->
+        <attr format="reference" name="layout"/>
+        <!--
+             The default state of the SearchView. If true, it will be iconified when not in
+             use and expanded when clicked.
+        -->
+        <attr format="boolean" name="iconifiedByDefault"/>
+        <!-- An optional maximum width of the SearchView. -->
+        <attr name="android:maxWidth"/>
+        <!-- An optional query hint string to be displayed in the empty query field. -->
+        <attr format="string" name="queryHint"/>
+        <!-- The IME options to set on the query text field. -->
+        <attr name="android:imeOptions"/>
+        <!-- The input type to set on the query text field. -->
+        <attr name="android:inputType"/>
+        <!-- Close button icon -->
+        <attr format="reference" name="closeIcon"/>
+        <!-- Go button icon -->
+        <attr format="reference" name="goIcon"/>
+        <!-- Search icon -->
+        <attr format="reference" name="searchIcon"/>
+        <!-- Voice button icon -->
+        <attr format="reference" name="voiceIcon"/>
+        <!-- Commit icon shown in the query suggestion row -->
+        <attr format="reference" name="commitIcon"/>
+        <!-- Layout for query suggestion rows -->
+        <attr format="reference" name="suggestionRowLayout"/>
+        <!-- Background for the section containing the search query -->
+        <attr format="reference" name="queryBackground"/>
+        <!-- Background for the section containing the action (e.g. voice search) -->
+        <attr format="reference" name="submitBackground"/>
+        <attr name="android:focusable"/>
+    </declare-styleable>
+    <declare-styleable name="Spinner">
+
+        <!-- The prompt to display when the spinner's dialog is shown. -->
+        <attr format="reference" name="prompt"/>
+        <!-- Display mode for spinner options. -->
+        <attr format="enum" name="spinnerMode">
+
+            <!-- Spinner options will be presented to the user as a dialog window. -->
+            <enum name="dialog" value="0"/>
+            <!--
+                 Spinner options will be presented to the user as an inline dropdown
+                 anchored to the spinner widget itself.
+            -->
+            <enum name="dropdown" value="1"/>
+        </attr>
+        <!-- List selector to use for spinnerMode="dropdown" display. -->
+        <attr name="android:dropDownSelector"/>
+        <!-- Background drawable to use for the dropdown in spinnerMode="dropdown". -->
+        <attr name="android:popupBackground"/>
+        <!--
+             Vertical offset from the spinner widget for positioning the dropdown in
+             spinnerMode="dropdown".
+        -->
+        <attr name="android:dropDownVerticalOffset"/>
+        <!--
+             Horizontal offset from the spinner widget for positioning the dropdown
+             in spinnerMode="dropdown".
+        -->
+        <attr name="android:dropDownHorizontalOffset"/>
+        <!-- Width of the dropdown in spinnerMode="dropdown". -->
+        <attr name="android:dropDownWidth"/>
+        <!--
+             Reference to a layout to use for displaying a prompt in the dropdown for
+             spinnerMode="dropdown". This layout must contain a TextView with the id
+             {@code @android:id/text1} to be populated with the prompt text.
+        -->
+        <attr format="reference" name="popupPromptView"/>
+        <!-- Gravity setting for positioning the currently selected item. -->
+        <attr name="android:gravity"/>
+        <!--
+             Whether this spinner should mark child views as enabled/disabled when
+             the spinner itself is enabled/disabled.
+        -->
+        <attr format="boolean" name="disableChildrenWhenDisabled"/>
+        <attr name="android:background"/>
+    </declare-styleable>
+    <declare-styleable name="SwitchCompat">
+
+        <!-- Drawable to use as the "thumb" that switches back and forth. -->
+        <attr name="android:thumb"/>
+        <!-- Drawable to use as the "track" that the switch thumb slides within. -->
+        <attr format="reference" name="track"/>
+        <!-- Text to use when the switch is in the checked/"on" state. -->
+        <attr name="android:textOn"/>
+        <!-- Text to use when the switch is in the unchecked/"off" state. -->
+        <attr name="android:textOff"/>
+        <!-- Amount of padding on either side of text within the switch thumb. -->
+        <attr format="dimension" name="thumbTextPadding"/>
+        <!-- TextAppearance style for text displayed on the switch thumb. -->
+        <attr format="reference" name="switchTextAppearance"/>
+        <!-- Minimum width for the switch component -->
+        <attr format="dimension" name="switchMinWidth"/>
+        <!-- Minimum space between the switch and caption text -->
+        <attr format="dimension" name="switchPadding"/>
+        <!-- Whether to split the track and leave a gap for the thumb drawable. -->
+        <attr format="boolean" name="splitTrack"/>
+        <!-- Whether to draw on/off text. -->
+        <attr format="boolean" name="showText"/>
+    </declare-styleable>
+    <declare-styleable name="Theme">
+
+        <!-- ============= -->
+        <!-- Window styles -->
+        <!-- ============= -->
+        <eat-comment/>
+
+        <!--
+             Flag indicating whether this window should have an Action Bar
+             in place of the usual title bar.
+        -->
+        <attr format="boolean" name="windowActionBar"/>
+
+        <!--
+             Flag indicating whether this window's Action Bar should overlay
+             application content. Does nothing if the window would not
+             have an Action Bar.
+        -->
+        <attr format="boolean" name="windowActionBarOverlay"/>
+
+        <!--
+             Flag indicating whether action modes should overlay window content
+             when there is not reserved space for their UI (such as an Action Bar).
+        -->
+        <attr format="boolean" name="windowActionModeOverlay"/>
+
+        <!--
+             A fixed width for the window along the major axis of the screen,
+             that is, when in landscape. Can be either an absolute dimension
+             or a fraction of the screen size in that dimension.
+        -->
+        <attr format="dimension|fraction" name="windowFixedWidthMajor"/>
+        <!--
+             A fixed height for the window along the minor axis of the screen,
+             that is, when in landscape. Can be either an absolute dimension
+             or a fraction of the screen size in that dimension.
+        -->
+        <attr format="dimension|fraction" name="windowFixedHeightMinor"/>
+
+        <!--
+             A fixed width for the window along the minor axis of the screen,
+             that is, when in portrait. Can be either an absolute dimension
+             or a fraction of the screen size in that dimension.
+        -->
+        <attr format="dimension|fraction" name="windowFixedWidthMinor"/>
+        <!--
+             A fixed height for the window along the major axis of the screen,
+             that is, when in portrait. Can be either an absolute dimension
+             or a fraction of the screen size in that dimension.
+        -->
+        <attr format="dimension|fraction" name="windowFixedHeightMajor"/>
+        <attr name="android:windowIsFloating"/>
+
+        <!-- =================== -->
+        <!-- Action bar styles -->
+        <!-- =================== -->
+        <eat-comment/>
+        <!-- Default style for tabs within an action bar -->
+        <attr format="reference" name="actionBarTabStyle"/>
+        <attr format="reference" name="actionBarTabBarStyle"/>
+        <attr format="reference" name="actionBarTabTextStyle"/>
+        <attr format="reference" name="actionOverflowButtonStyle"/>
+        <attr format="reference" name="actionOverflowMenuStyle"/>
+        <!--
+             Reference to a theme that should be used to inflate popups
+             shown by widgets in the action bar.
+        -->
+        <attr format="reference" name="actionBarPopupTheme"/>
+        <!-- Reference to a style for the Action Bar -->
+        <attr format="reference" name="actionBarStyle"/>
+        <!--
+             Reference to a style for the split Action Bar. This style
+             controls the split component that holds the menu/action
+             buttons. actionBarStyle is still used for the primary
+             bar.
+        -->
+        <attr format="reference" name="actionBarSplitStyle"/>
+        <!--
+             Reference to a theme that should be used to inflate the
+             action bar. This will be inherited by any widget inflated
+             into the action bar.
+        -->
+        <attr format="reference" name="actionBarTheme"/>
+        <!--
+             Reference to a theme that should be used to inflate widgets
+             and layouts destined for the action bar. Most of the time
+             this will be a reference to the current theme, but when
+             the action bar has a significantly different contrast
+             profile than the rest of the activity the difference
+             can become important. If this is set to @null the current
+             theme will be used.
+        -->
+        <attr format="reference" name="actionBarWidgetTheme"/>
+        <!--
+             Size of the Action Bar, including the contextual
+             bar used to present Action Modes.
+        -->
+        <attr format="dimension" name="actionBarSize">
+            <enum name="wrap_content" value="0"/>
+        </attr>
+        <!-- Custom divider drawable to use for elements in the action bar. -->
+        <attr format="reference" name="actionBarDivider"/>
+        <!-- Custom item state list drawable background for action bar items. -->
+        <attr format="reference" name="actionBarItemBackground"/>
+        <!--
+             TextAppearance style that will be applied to text that
+             appears within action menu items.
+        -->
+        <attr format="reference" name="actionMenuTextAppearance"/>
+        <!-- Color for text that appears within action menu items. -->
+        <!-- Color for text that appears within action menu items. -->
+        <attr format="color|reference" name="actionMenuTextColor"/>
+
+        <!-- =================== -->
+        <!-- Action mode styles -->
+        <!-- =================== -->
+        <eat-comment/>
+
+        <attr format="reference" name="actionModeStyle"/>
+        <attr format="reference" name="actionModeCloseButtonStyle"/>
+        <!-- Background drawable to use for action mode UI -->
+        <attr format="reference" name="actionModeBackground"/>
+        <!-- Background drawable to use for action mode UI in the lower split bar -->
+        <attr format="reference" name="actionModeSplitBackground"/>
+        <!-- Drawable to use for the close action mode button -->
+        <attr format="reference" name="actionModeCloseDrawable"/>
+        <!-- Drawable to use for the Cut action button in Contextual Action Bar -->
+        <attr format="reference" name="actionModeCutDrawable"/>
+        <!-- Drawable to use for the Copy action button in Contextual Action Bar -->
+        <attr format="reference" name="actionModeCopyDrawable"/>
+        <!-- Drawable to use for the Paste action button in Contextual Action Bar -->
+        <attr format="reference" name="actionModePasteDrawable"/>
+        <!-- Drawable to use for the Select all action button in Contextual Action Bar -->
+        <attr format="reference" name="actionModeSelectAllDrawable"/>
+        <!-- Drawable to use for the Share action button in WebView selection action modes -->
+        <attr format="reference" name="actionModeShareDrawable"/>
+        <!-- Drawable to use for the Find action button in WebView selection action modes -->
+        <attr format="reference" name="actionModeFindDrawable"/>
+        <!-- Drawable to use for the Web Search action button in WebView selection action modes -->
+        <attr format="reference" name="actionModeWebSearchDrawable"/>
+
+        <!-- PopupWindow style to use for action modes when showing as a window overlay. -->
+        <attr format="reference" name="actionModePopupWindowStyle"/>
+
+        <!-- =================== -->
+        <!-- Text styles -->
+        <!-- =================== -->
+        <eat-comment/>
+        <!-- Text color, typeface, size, and style for the text inside of a popup menu. -->
+        <attr format="reference" name="textAppearanceLargePopupMenu"/>
+        <!-- Text color, typeface, size, and style for small text inside of a popup menu. -->
+        <attr format="reference" name="textAppearanceSmallPopupMenu"/>
+
+        <!-- =================== -->
+        <!-- Other widget styles -->
+        <!-- =================== -->
+        <eat-comment/>
+
+        <!-- Default ActionBar dropdown style. -->
+        <attr format="reference" name="actionDropDownStyle"/>
+        <!-- The preferred item height for dropdown lists. -->
+        <attr format="dimension" name="dropdownListPreferredItemHeight"/>
+
+        <!-- Default Spinner style. -->
+        <attr format="reference" name="spinnerStyle"/>
+        <!-- Default Spinner style. -->
+        <attr format="reference" name="spinnerDropDownItemStyle"/>
+        <!-- Specifies a drawable to use for the 'home as up' indicator. -->
+        <attr format="reference" name="homeAsUpIndicator"/>
+
+        <!-- Default action button style. -->
+        <attr format="reference" name="actionButtonStyle"/>
+
+        <!--
+         A style that may be applied to horizontal LinearLayouts
+         to form a button bar.
+        -->
+        <attr format="reference" name="buttonBarStyle"/>
+        <!--
+             A style that may be applied to Buttons placed within a
+             LinearLayout with the style buttonBarStyle to form a button bar.
+        -->
+        <attr format="reference" name="buttonBarButtonStyle"/>
+        <!--
+             A style that may be applied to buttons or other selectable items
+             that should react to pressed and focus states, but that do not
+             have a clear visual border along the edges.
+        -->
+        <attr format="reference" name="selectableItemBackground"/>
+        <!-- Background drawable for borderless standalone items that need focus/pressed states. -->
+        <attr format="reference" name="selectableItemBackgroundBorderless"/>
+        <!-- A drawable that may be used as a vertical divider between visual elements. -->
+        <attr format="reference" name="dividerVertical"/>
+        <!-- A drawable that may be used as a horizontal divider between visual elements. -->
+        <attr format="reference" name="dividerHorizontal"/>
+        <!-- Default ActivityChooserView style. -->
+        <attr format="reference" name="activityChooserViewStyle"/>
+
+        <!-- Default Toolbar style. -->
+        <attr format="reference" name="toolbarStyle"/>
+        <!-- Default Toolar NavigationButtonStyle -->
+        <attr format="reference" name="toolbarNavigationButtonStyle"/>
+
+        <!-- Default PopupMenu style. -->
+        <attr format="reference" name="popupMenuStyle"/>
+        <!-- Default PopupWindow style. -->
+        <attr format="reference" name="popupWindowStyle"/>
+
+        <!-- EditText text foreground color. -->
+        <attr format="reference|color" name="editTextColor"/>
+        <!-- EditText background drawable. -->
+        <attr format="reference" name="editTextBackground"/>
+
+        <!-- Default style for the Switch widget. -->
+        <attr format="reference" name="switchStyle"/>
+
+        <!-- ============================ -->
+        <!-- SearchView styles and assets -->
+        <!-- ============================ -->
+        <eat-comment/>
+        <!-- Text color, typeface, size, and style for system search result title. Defaults to primary inverse text color. -->
+        <attr format="reference" name="textAppearanceSearchResultTitle"/>
+        <!-- Text color, typeface, size, and style for system search result subtitle. Defaults to primary inverse text color. -->
+        <attr format="reference" name="textAppearanceSearchResultSubtitle"/>
+        <!-- Text color for urls in search suggestions, used by things like global search -->
+        <attr format="reference|color" name="textColorSearchUrl"/>
+        <!-- Style for the search query widget. -->
+        <attr format="reference" name="searchViewStyle"/>
+
+        <!-- =========== -->
+        <!-- List styles -->
+        <!-- =========== -->
+        <eat-comment/>
+
+        <!-- The preferred list item height. -->
+        <attr format="dimension" name="listPreferredItemHeight"/>
+        <!-- A smaller, sleeker list item height. -->
+        <attr format="dimension" name="listPreferredItemHeightSmall"/>
+        <!-- A larger, more robust list item height. -->
+        <attr format="dimension" name="listPreferredItemHeightLarge"/>
+
+        <!-- The preferred padding along the left edge of list items. -->
+        <attr format="dimension" name="listPreferredItemPaddingLeft"/>
+        <!-- The preferred padding along the right edge of list items. -->
+        <attr format="dimension" name="listPreferredItemPaddingRight"/>
+
+        <!-- ListPopupWindow compatibility -->
+        <attr format="reference" name="dropDownListViewStyle"/>
+        <attr format="reference" name="listPopupWindowStyle"/>
+
+        <!-- The preferred TextAppearance for the primary text of list items. -->
+        <attr format="reference" name="textAppearanceListItem"/>
+        <!-- The preferred TextAppearance for the primary text of small list items. -->
+        <attr format="reference" name="textAppearanceListItemSmall"/>
+
+        <!-- ============ -->
+        <!-- Panel styles -->
+        <!-- ============ -->
+        <eat-comment/>
+
+        <!-- The background of a panel when it is inset from the left and right edges of the screen. -->
+        <attr format="reference" name="panelBackground"/>
+        <!-- Default Panel Menu width. -->
+        <attr format="dimension" name="panelMenuListWidth"/>
+        <!-- Default Panel Menu style. -->
+        <attr format="reference" name="panelMenuListTheme"/>
+        <!-- Drawable used as a background for selected list items. -->
+        <attr format="reference" name="listChoiceBackgroundIndicator"/>
+
+        <!-- ============= -->
+        <!-- Color palette -->
+        <!-- ============= -->
+        <eat-comment/>
+
+        <!--
+             The primary branding color for the app. By default, this is the color applied to the
+             action bar background.
+        -->
+        <attr format="color" name="colorPrimary"/>
+
+        <!--
+             Dark variant of the primary branding color. By default, this is the color applied to
+             the status bar (via statusBarColor) and navigation bar (via navigationBarColor).
+        -->
+        <attr format="color" name="colorPrimaryDark"/>
+
+        <!--
+             Bright complement to the primary branding color. By default, this is the color applied
+             to framework controls (via colorControlActivated).
+        -->
+        <attr format="color" name="colorAccent"/>
+
+        <!-- The color applied to framework controls in their normal state. -->
+        <attr format="color" name="colorControlNormal"/>
+
+        <!-- The color applied to framework controls in their activated (ex. checked) state. -->
+        <attr format="color" name="colorControlActivated"/>
+
+        <!-- The color applied to framework control highlights (ex. ripples, list selectors). -->
+        <attr format="color" name="colorControlHighlight"/>
+
+        <!-- The color applied to framework buttons in their normal state. -->
+        <attr format="color" name="colorButtonNormal"/>
+
+        <!-- The color applied to framework switch thumbs in their normal state. -->
+        <attr format="color" name="colorSwitchThumbNormal"/>
+    </declare-styleable>
+    <declare-styleable name="Toolbar">
+        <attr format="reference" name="titleTextAppearance"/>
+        <attr format="reference" name="subtitleTextAppearance"/>
+        <attr name="title"/>
+        <attr name="subtitle"/>
+        <attr name="android:gravity"/>
+        <attr format="dimension" name="titleMargins"/>
+        <attr format="dimension" name="titleMarginStart"/>
+        <attr format="dimension" name="titleMarginEnd"/>
+        <attr format="dimension" name="titleMarginTop"/>
+        <attr format="dimension" name="titleMarginBottom"/>
+        <attr name="contentInsetStart"/>
+        <attr name="contentInsetEnd"/>
+        <attr name="contentInsetLeft"/>
+        <attr name="contentInsetRight"/>
+        <attr format="dimension" name="maxButtonHeight"/>
+
+        <!--
+             Specifies a theme override for a view. When a theme override is set, the
+             view will be inflated using a {@link android.content.Context} themed with
+             the specified resource. During XML inflation, any child views under the
+             view with a theme override will inherit the themed context.
+        -->
+        <attr format="reference" name="theme"/>
+
+        <!-- Icon drawable to use for the collapse button. -->
+        <attr format="reference" name="collapseIcon"/>
+        <!-- Text to set as the content description for the collapse button. -->
+        <attr format="string" name="collapseContentDescription"/>
+        <!--
+             Reference to a theme that should be used to inflate popups
+             shown by widgets in the toolbar.
+        -->
+        <attr name="popupTheme"/>
+        <!--
+             Icon drawable to use for the navigation button located at
+             the start of the toolbar.
+        -->
+        <attr format="reference" name="navigationIcon"/>
+        <!--
+             Text to set as the content description for the navigation button
+             located at the start of the toolbar.
+        -->
+        <attr format="string" name="navigationContentDescription"/>
+
+        <!-- Allows us to read in the minHeight attr pre-v16 -->
+        <attr name="android:minHeight"/>
+    </declare-styleable>
+    <declare-styleable name="View">
+
+        <!-- Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}. -->
+        <attr format="dimension" name="paddingStart"/>
+        <!-- Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}. -->
+        <attr format="dimension" name="paddingEnd"/>
+
+        <!--
+             Boolean that controls whether a view can take focus.  By default the user can not
+             move focus to a view; by setting this attribute to true the view is
+             allowed to take focus.  This value does not impact the behavior of
+             directly calling {@link android.view.View#requestFocus}, which will
+             always request focus regardless of this view.  It only impacts where
+             focus navigation will try to move focus.
+        -->
+        <attr name="android:focusable"/>
+    </declare-styleable>
+    <declare-styleable name="ViewStubCompat">
+
+        <!--
+             Supply an identifier for the layout resource to inflate when the ViewStub
+             becomes visible or when forced to do so. The layout resource must be a
+             valid reference to a layout.
+        -->
+        <attr name="android:layout"/>
+        <!-- Overrides the id of the inflated View with this value. -->
+        <attr name="android:inflatedId"/>
+        <attr name="android:id"/>
+    </declare-styleable>
+</resources>

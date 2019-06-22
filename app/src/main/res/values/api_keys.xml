@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tmdb_api_key">0fd42d7cf783faf9a5eefeb78e1cc5c9</string>
+    <string name="tvdb_api_key">3BA50ED32C3FBC05</string>
+    <string name="youtube_api_key">add_your_own</string>
+    <string name="trakt_api_key">2ee0c8a971c6dc94f130a15d5b2b0687f58dfc492c883dd8cf1a241ba8f7fe42</string>
+</resources>

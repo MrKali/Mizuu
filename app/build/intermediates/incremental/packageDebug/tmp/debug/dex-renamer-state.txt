@@ -1,0 +1,4 @@
+#Thu Jun 20 12:04:24 AST 2019
+base.0=C\:\\Users\\Dragon.DESKTOP-UVR5DGT\\AS----projects\\mymode\\Mizuu-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

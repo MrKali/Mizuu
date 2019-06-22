@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="startup_screen">
+        <item>@string/drawerMyMovies</item>
+        <item>@string/drawerMyTvShows</item>
+    </string-array>
+    <string-array name="startup_screen_codes">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="bufferSizes">
+        <item>@string/_8kb</item>
+        <item>@string/_16kb</item>
+    </string-array>
+    <string-array name="seasonsLayout">
+        <item>@string/gridView</item>
+        <item>@string/listView</item>
+    </string-array>
+    <string-array name="episodesOrder">
+        <item>@string/newestFirst</item>
+        <item>@string/oldestFirst</item>
+    </string-array>
+    <string-array name="scheduledUpdates">
+        <item>@string/scheduledAtLaunch</item>
+        <item>@string/scheduledEveryHour</item>
+        <item>@string/scheduledEvery2Hours</item>
+        <item>@string/scheduledEvery4Hours</item>
+        <item>@string/scheduledEvery6Hours</item>
+        <item>@string/scheduledEvery12Hours</item>
+        <item>@string/scheduledEveryDay</item>
+        <item>@string/scheduledEveryWeek</item>
+    </string-array>
+    <string-array name="grid_item_size">
+        <item>@string/large</item>
+        <item>@string/normal</item>
+        <item>@string/small</item>
+    </string-array>
+
+</resources>

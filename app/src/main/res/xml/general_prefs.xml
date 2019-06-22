@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:icon="@drawable/ic_settings_white_24dp" >
+
+    <PreferenceCategory android:title="@string/prefsUIGeneral" >
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/startup_screen"
+            android:entryValues="@array/startup_screen_codes"
+            android:icon="@drawable/ic_home_white_24dp"
+            android:key="prefsStartup"
+            android:summary="@string/stringLaunchScreenDescription"
+            android:title="@string/stringLaunchScreen" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

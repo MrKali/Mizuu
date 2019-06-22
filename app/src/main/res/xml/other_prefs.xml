@@ -1,0 +1,129 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/prefsCredits" >
+        <Preference
+            android:icon="@drawable/ic_movie_white_24dp"
+            android:summary="@string/prefsCreditsTmdbDescription"
+            android:title="@string/prefsCreditsTmdbTitle" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://themoviedb.org" />
+        </Preference>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/thirdPartyLibraries" >
+        <Preference
+            android:icon="@drawable/ic_extension_white_24dp"
+            android:summary="Creative Commons Attribution, Version 2.5"
+            android:title="Android Support library" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://developer.android.com/tools/extras/support-library.html" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/ic_extension_white_24dp"
+            android:summary="Apache License, Version 2.0"
+            android:title="Apache Commons FilenameUtils" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://commons.apache.org/proper/commons-io/javadocs/api-2.4/org/apache/commons/io/FilenameUtils.html" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/ic_extension_white_24dp"
+            android:summary="GNU Lesser General Public License"
+            android:title="Cling by 4thline" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://4thline.org/projects/cling/" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/ic_extension_white_24dp"
+            android:summary="Apache License, Version 2.0"
+            android:title="FloatingActionButton by Melnykov Oleksandr" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://github.com/makovkastar/FloatingActionButton" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/ic_extension_white_24dp"
+            android:summary="Apache License, Version 2.0"
+            android:title="Guava collection libraries by Google" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://code.google.com/p/guava-libraries/" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/ic_extension_white_24dp"
+            android:summary="LGPL, Version 2.1"
+            android:title="jCIFS" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://jcifs.samba.org/" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/ic_extension_white_24dp"
+            android:summary="Apache License, Version 2.0"
+            android:title="ObservableScrollView by Soichiro Kashima" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://github.com/ksoichiro/Android-ObservableScrollView" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/ic_extension_white_24dp"
+            android:summary="Apache License, Version 2.0"
+            android:title="OkHttp by Square, Inc." >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://square.github.io/okhttp/" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/ic_extension_white_24dp"
+            android:summary="Apache License, Version 2.0"
+            android:title="Okio by Square, Inc." >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://square.github.io/okio/" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/ic_extension_white_24dp"
+            android:summary="Apache License, Version 2.0"
+            android:title="Otto by Square, Inc." >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://square.github.io/otto/" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/ic_extension_white_24dp"
+            android:title="PagerSlidingTabStrip by Andreas Stuetz and Javier Pardo"
+            android:summary="Apache License, Version 2.0">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://github.com/jpardogo/PagerSlidingTabStrip" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/ic_extension_white_24dp"
+            android:summary="Apache License, Version 2.0"
+            android:title="Picasso by Square, Inc." >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://square.github.io/picasso/" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/ic_extension_white_24dp"
+            android:summary="Creative Commons Attribution License, Version 3.0"
+            android:title="YouTube Android Player API" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://developers.google.com/youtube/android/player/" />
+        </Preference>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/translations" >
+        <Preference
+            android:icon="@drawable/ic_language_white_24dp"
+            android:title="@string/translations" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://translate.mizuu.tv/" />
+        </Preference>
+    </PreferenceCategory>
+
+</PreferenceScreen>

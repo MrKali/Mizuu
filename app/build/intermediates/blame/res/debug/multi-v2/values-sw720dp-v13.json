@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Dragon.DESKTOP-UVR5DGT\\AS----projects\\mymode\\Mizuu-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dragon.DESKTOP-UVR5DGT\\AS----projects\\mymode\\Mizuu-master\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "from": {
+                        "startLines": "14,5,16,9,6,15,10,11,19,18,4,3,8,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "601,164,715,372,221,658,419,493,833,774,109,56,319,270",
+                        "endColumns": "56,56,53,46,48,56,73,72,67,58,54,52,52,48",
+                        "endOffsets": "653,216,764,414,265,710,488,561,896,828,159,104,367,314"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,112,169,223,270,319,376,450,523,591,650,705,758,811",
+                        "endColumns": "56,56,53,46,48,56,73,72,67,58,54,52,52,48",
+                        "endOffsets": "107,164,218,265,314,371,445,518,586,645,700,753,806,855"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dragon.DESKTOP-UVR5DGT\\AS----projects\\mymode\\Mizuu-master\\app\\src\\main\\res\\values-sw720dp\\integers.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "57",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "860",
+                        "endColumns": "57",
+                        "endOffsets": "913"
+                    }
+                }
+            ]
+        }
+    ]
+}
