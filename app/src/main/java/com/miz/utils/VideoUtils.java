@@ -55,9 +55,13 @@ public class VideoUtils {
 			playbackStarted = playNetworkFile(activity, filepath, videoObject);
 		} else {
 			try { // Attempt to launch intent with the video MIME wildcard
-				activity.startActivity(getVideoIntent(filepath, videoObject));
+				Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(filepath));
+				intent.setDataAndType(Uri.parse(filepath), "video/mp4");
+				activity.startActivity(intent);
 			} catch (Exception e) {
 				playbackStarted = false;
+				Toast.makeText(activity, e.toString(), Toast.LENGTH_SHORT).show();
+				System.out.println(e);
 				Toast.makeText(activity, activity.getString(R.string.noVideoPlayerFound), Toast.LENGTH_LONG).show();
 			}
 		}

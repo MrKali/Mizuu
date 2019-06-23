@@ -49,12 +49,14 @@ public class FileSourceBrowser extends MizActivity {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		
+
+
 		Bundle extras = getIntent().getExtras();
 		isMovie = extras.getString(TYPE).equals(MOVIE);
 		mFilesource = extras.getInt(FILESOURCE, FileSource.FILE);
 		
 		TAG = "source" + mFilesource;
+
 
 		Fragment frag = getSupportFragmentManager().findFragmentByTag(TAG);
 		if (frag == null) {
@@ -73,7 +75,7 @@ public class FileSourceBrowser extends MizActivity {
 			}
 			ft.commit();
 		}
-		
+
 		boolean hasShown = PreferenceManager.getDefaultSharedPreferences(this).getBoolean(HAS_SHOWN_FILEBROWSER_MESSAGE, false);
 		if (!hasShown) {
 			Toast.makeText(this, R.string.browser_help_message, Toast.LENGTH_LONG).show();
@@ -82,6 +84,7 @@ public class FileSourceBrowser extends MizActivity {
 			editor.putBoolean(HAS_SHOWN_FILEBROWSER_MESSAGE, true);
 			editor.apply();
 		}
+
 		
 	}
 

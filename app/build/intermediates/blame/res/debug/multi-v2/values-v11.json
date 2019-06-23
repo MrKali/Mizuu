@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Dragon.DESKTOP-UVR5DGT\\AS----projects\\mymode\\Mizuu-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Dragon.DESKTOP-UVR5DGT\\.gradle\\caches\\transforms-2\\files-2.1\\50f3c19398d38c8156317680cb4e4add\\res\\values-v11\\values.xml",
+                    "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/values-v11/values.xml",
                     "from": {
                         "startLines": "3,10,17,24,31,38,45,52,59,66,73,75,77,79,176,178,180,186,233,280,328",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Dragon.DESKTOP-UVR5DGT\\AS----projects\\mymode\\Mizuu-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Dragon.DESKTOP-UVR5DGT\\.gradle\\caches\\transforms-2\\files-2.1\\50f3c19398d38c8156317680cb4e4add\\res\\values-large\\values.xml",
-                    "from": {
-                        "startLines": "3,4,6,7,9,10,11,12,14,16,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "56,118,191,250,315,382,449,515,582,638,744",
-                        "endColumns": "61,71,58,63,66,66,65,65,54,104,116",
-                        "endOffsets": "113,185,245,309,377,444,510,576,632,738,856"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,8,9,10,11,15,16,17",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,117,189,248,418,485,552,618,845,900,1004",
-                        "endColumns": "61,71,58,63,66,66,65,65,54,103,115",
-                        "endOffsets": "112,184,243,307,480,547,613,679,895,999,1115"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Dragon.DESKTOP-UVR5DGT\\AS----projects\\mymode\\Mizuu-master\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/values-large/dimens.xml",
                     "from": {
                         "startLines": "5,6,4,3,7",
                         "startColumns": "4,4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "312,369,684,739,792",
                         "endColumns": "56,48,54,52,52",
                         "endOffsets": "364,413,734,787,840"
+                    }
+                },
+                {
+                    "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/values-large/values.xml",
+                    "from": {
+                        "startLines": "3,4,6,7,9,10,11,12,14,16,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,118,191,250,315,382,449,515,582,638,744",
+                        "endColumns": "61,71,58,63,66,66,65,65,54,104,116",
+                        "endOffsets": "113,185,245,309,377,444,510,576,632,738,856"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,8,9,10,11,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,189,248,418,485,552,618,845,900,1004",
+                        "endColumns": "61,71,58,63,66,66,65,65,54,103,115",
+                        "endOffsets": "112,184,243,307,480,547,613,679,895,999,1115"
                     }
                 }
             ]

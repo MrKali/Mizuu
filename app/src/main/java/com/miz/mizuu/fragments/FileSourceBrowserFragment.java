@@ -74,6 +74,7 @@ import org.teleal.cling.support.model.SortCriterion;
 import org.teleal.cling.support.model.container.Container;
 import org.teleal.cling.support.model.item.Item;
 
+import java.io.File;
 import java.io.UnsupportedEncodingException;
 import java.net.MalformedURLException;
 import java.util.ArrayList;
@@ -105,6 +106,7 @@ public class FileSourceBrowserFragment extends Fragment {
 	private AndroidUpnpService upnpService;
 	private ArrayAdapter<ContentItem> contentListAdapter;
     private FloatingActionButton mFab;
+    private File mFile;
 
 	/**
 	 * Empty constructor as per the Fragment documentation
@@ -282,6 +284,7 @@ public class FileSourceBrowserFragment extends Fragment {
 		switch (mType) {
 		case FileSource.FILE:
 			mBrowser = new BrowserFile(Environment.getExternalStorageDirectory());
+			mFile = Environment.getExternalStorageDirectory();
 			break;
 		case FileSource.SMB:
 			mBrowser = new BrowserSmb(new SmbFile(MizLib.createSmbLoginString(
@@ -344,8 +347,8 @@ public class FileSourceBrowserFragment extends Fragment {
 			if (!isAdded())
 				return;
 
-			if (mIndex >= GO_BACK && !result)
-				Toast.makeText(getActivity(), R.string.couldnt_load_folder, Toast.LENGTH_SHORT).show();
+			//if (mIndex >= GO_BACK && !result)
+			//	Toast.makeText(getActivity(), R.string.couldnt_load_folder, Toast.LENGTH_SHORT).show();
 
 			setLoading(false);
 

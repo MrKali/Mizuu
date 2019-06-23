@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Dragon.DESKTOP-UVR5DGT\\AS----projects\\mymode\\Mizuu-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "outputFile": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Dragon.DESKTOP-UVR5DGT\\AS----projects\\mymode\\Mizuu-master\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/values-sw720dp/dimens.xml",
                     "from": {
                         "startLines": "14,5,16,9,6,15,10,11,19,18,4,3,8,7",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Dragon.DESKTOP-UVR5DGT\\AS----projects\\mymode\\Mizuu-master\\app\\src\\main\\res\\values-sw720dp\\integers.xml",
+                    "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/values-sw720dp/integers.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",

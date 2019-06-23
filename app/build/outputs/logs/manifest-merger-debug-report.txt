@@ -1,595 +1,595 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:2:1-487:12
-INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:2:1-487:12
-INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:2:1-487:12
-INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:2:1-487:12
-MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\50f3c19398d38c8156317680cb4e4add\AndroidManifest.xml:14:4-17:12
-MERGED from [com.android.support:palette-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\dae18838b82719d80e69880a139844a6\AndroidManifest.xml:14:4-18:12
-MERGED from [com.melnykov:floatingactionbutton:1.1.0] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\d1e81ee230e64b7a93d5ac9fc96fd2eb\AndroidManifest.xml:2:1-14:12
-MERGED from [com.github.ksoichiro:android-observablescrollview:1.4.0] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\3536b378554721cf4b93010bf41d4d3c\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\1d5ee3040c73fbe0d1acabbb9f9c0c13\AndroidManifest.xml:14:4-20:12
-MERGED from [com.jpardogo.materialtabstrip:library:1.0.7] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\f711b5f67781ebc9a7a47a075c312eaa\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\2d2706b01ba5c735b9a94df6eb3a39dd\AndroidManifest.xml:14:4-17:12
-MERGED from [com.android.support:cardview-v7:21.0.0] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\3b0f60c3e7d3f097448a35d2e57417f8\AndroidManifest.xml:14:4-17:12
-INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:2:1-487:12
-INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:2:1-487:12
-INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:2:1-487:12
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:2:1-487:12
+INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:2:1-487:12
+INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:2:1-487:12
+INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:2:1-487:12
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support:palette-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/234cac5a00c1e3691c90bc8c544ecc9f/AndroidManifest.xml:14:4-18:12
+MERGED from [com.melnykov:floatingactionbutton:1.1.0] /home/pedro/.gradle/caches/transforms-2/files-2.1/14a574397b3d3a736e8ba7afb31aa067/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.4.0] /home/pedro/.gradle/caches/transforms-2/files-2.1/91f492e5d6884a31728fadf7b7207366/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:recyclerview-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/b7c93b94eb4a73c384bbedc61ff25956/AndroidManifest.xml:14:4-20:12
+MERGED from [com.jpardogo.materialtabstrip:library:1.0.7] /home/pedro/.gradle/caches/transforms-2/files-2.1/6785750fb58873210d1aa6810661a8ac/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/c9f46006910ad057706af8e677bbbb56/AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support:cardview-v7:21.0.0] /home/pedro/.gradle/caches/transforms-2/files-2.1/440ea898ec87b7a8cad5654677ca2cda/AndroidManifest.xml:14:4-17:12
+INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:2:1-487:12
+INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:2:1-487:12
+INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:2:1-487:12
 	package
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:3:5-28
-		INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:5:5-38
-		INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:5:5-38
+		INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:4:5-31
-		INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:4:5-31
+		INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:8:5-67
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:8:5-67
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:8:22-64
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:8:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:9:5-79
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:9:22-76
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:9:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:10:5-81
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:10:22-78
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:10:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:11:5-80
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:11:5-80
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:11:22-77
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:11:22-77
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:12:5-81
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:12:22-78
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:12:22-78
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:13:5-76
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:13:5-76
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:13:22-73
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:13:22-73
 uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:14:5-86
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:14:5-86
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:14:22-83
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:14:22-83
 uses-feature#android.hardware.touchscreen
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:16:5-18:36
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:16:5-18:36
 	android:required
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:18:9-33
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:18:9-33
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:17:9-52
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:17:9-52
 supports-screens
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:20:5-24:40
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:20:5-24:40
 	android:largeScreens
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:21:9-36
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:21:9-36
 	android:smallScreens
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:23:9-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:23:9-37
 	android:normalScreens
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:22:9-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:22:9-37
 	android:xlargeScreens
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:24:9-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:24:9-37
 application
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:27:5-485:19
-MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\50f3c19398d38c8156317680cb4e4add\AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\50f3c19398d38c8156317680cb4e4add\AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:palette-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\dae18838b82719d80e69880a139844a6\AndroidManifest.xml:16:5-17:19
-MERGED from [com.android.support:palette-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\dae18838b82719d80e69880a139844a6\AndroidManifest.xml:16:5-17:19
-MERGED from [com.melnykov:floatingactionbutton:1.1.0] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\d1e81ee230e64b7a93d5ac9fc96fd2eb\AndroidManifest.xml:12:5-20
-MERGED from [com.melnykov:floatingactionbutton:1.1.0] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\d1e81ee230e64b7a93d5ac9fc96fd2eb\AndroidManifest.xml:12:5-20
-MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\1d5ee3040c73fbe0d1acabbb9f9c0c13\AndroidManifest.xml:17:5-19:19
-MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\1d5ee3040c73fbe0d1acabbb9f9c0c13\AndroidManifest.xml:17:5-19:19
-MERGED from [com.jpardogo.materialtabstrip:library:1.0.7] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\f711b5f67781ebc9a7a47a075c312eaa\AndroidManifest.xml:9:5-20
-MERGED from [com.jpardogo.materialtabstrip:library:1.0.7] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\f711b5f67781ebc9a7a47a075c312eaa\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\2d2706b01ba5c735b9a94df6eb3a39dd\AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\2d2706b01ba5c735b9a94df6eb3a39dd\AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:cardview-v7:21.0.0] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\3b0f60c3e7d3f097448a35d2e57417f8\AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:cardview-v7:21.0.0] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\3b0f60c3e7d3f097448a35d2e57417f8\AndroidManifest.xml:16:5-19
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:27:5-485:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:palette-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/234cac5a00c1e3691c90bc8c544ecc9f/AndroidManifest.xml:16:5-17:19
+MERGED from [com.android.support:palette-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/234cac5a00c1e3691c90bc8c544ecc9f/AndroidManifest.xml:16:5-17:19
+MERGED from [com.melnykov:floatingactionbutton:1.1.0] /home/pedro/.gradle/caches/transforms-2/files-2.1/14a574397b3d3a736e8ba7afb31aa067/AndroidManifest.xml:12:5-20
+MERGED from [com.melnykov:floatingactionbutton:1.1.0] /home/pedro/.gradle/caches/transforms-2/files-2.1/14a574397b3d3a736e8ba7afb31aa067/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:recyclerview-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/b7c93b94eb4a73c384bbedc61ff25956/AndroidManifest.xml:17:5-19:19
+MERGED from [com.android.support:recyclerview-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/b7c93b94eb4a73c384bbedc61ff25956/AndroidManifest.xml:17:5-19:19
+MERGED from [com.jpardogo.materialtabstrip:library:1.0.7] /home/pedro/.gradle/caches/transforms-2/files-2.1/6785750fb58873210d1aa6810661a8ac/AndroidManifest.xml:9:5-20
+MERGED from [com.jpardogo.materialtabstrip:library:1.0.7] /home/pedro/.gradle/caches/transforms-2/files-2.1/6785750fb58873210d1aa6810661a8ac/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/c9f46006910ad057706af8e677bbbb56/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/c9f46006910ad057706af8e677bbbb56/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:cardview-v7:21.0.0] /home/pedro/.gradle/caches/transforms-2/files-2.1/440ea898ec87b7a8cad5654677ca2cda/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:cardview-v7:21.0.0] /home/pedro/.gradle/caches/transforms-2/files-2.1/440ea898ec87b7a8cad5654677ca2cda/AndroidManifest.xml:16:5-19
 	android:supportsRtl
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:34:9-35
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:34:9-35
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:32:9-41
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:32:9-41
 	android:hardwareAccelerated
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:30:9-43
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:30:9-43
 	android:largeHeap
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:33:9-33
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:33:9-33
 	android:icon
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:31:9-42
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:31:9-42
 	android:allowBackup
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:29:9-35
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:29:9-35
 	android:theme
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:35:9-43
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:35:9-43
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:28:9-54
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:28:9-54
 uses-library#android.test.runner
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:37:9-60
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:37:9-60
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:37:23-57
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:37:23-57
 activity#com.miz.mizuu.TvShowDetails
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:40:9-51:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:40:9-51:20
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:42:13-36
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:42:13-36
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:41:13-55
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:41:13-55
 intent-filter#action:name:android.intent.action.DEFAULT+action:name:android.intent.action.SEARCH
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:43:13-46:29
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:43:13-46:29
 action#android.intent.action.DEFAULT
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:44:17-72
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:44:17-72
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:44:25-69
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:44:25-69
 action#android.intent.action.SEARCH
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:45:17-71
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:45:17-71
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:45:25-68
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:45:25-68
 meta-data#android.app.searchable
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:48:13-50:57
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:48:13-50:57
 	android:resource
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:50:17-54
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:50:17-54
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:49:17-54
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:49:17-54
 activity#com.miz.mizuu.SplashScreen
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:54:9-63:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:54:9-63:20
 	android:hardwareAccelerated
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:56:13-48
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:56:13-48
 	android:noHistory
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:57:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:57:13-37
 	android:theme
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:58:13-72
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:58:13-72
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:55:13-54
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:55:13-54
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:59:13-62:29
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:59:13-62:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:60:17-69
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:60:17-69
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:60:25-66
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:60:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:61:17-77
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:61:17-77
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:61:27-74
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:61:27-74
 activity#com.miz.mizuu.ImageViewer
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:66:9-72:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:66:9-72:20
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:68:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:68:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:67:13-53
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:67:13-53
 intent-filter#action:name:android.intent.action.DEFAULT
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:69:13-71:29
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:69:13-71:29
 activity#com.miz.mizuu.TvShowEpisodes
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:75:9-81:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:75:9-81:20
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:77:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:77:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:76:13-56
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:76:13-56
 activity#com.miz.mizuu.TvShowSeasons
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:84:9-90:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:84:9-90:20
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:86:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:86:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:85:13-55
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:85:13-55
 activity#com.miz.mizuu.Main
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:93:9-109:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:93:9-109:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:96:13-45
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:96:13-45
 	android:launchMode
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:97:13-43
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:97:13-43
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:95:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:95:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:94:13-46
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:94:13-46
 meta-data#android.app.default_searchable
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:106:13-108:54
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:106:13-108:54
 	android:value
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:108:17-51
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:108:17-51
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:107:17-62
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:107:17-62
 activity#com.miz.mizuu.TvShowActorSearchActivity
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:112:9-129:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:112:9-129:20
 	android:excludeFromRecents
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:114:13-46
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:114:13-46
 	android:hardwareAccelerated
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:115:13-48
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:115:13-48
 	android:noHistory
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:116:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:116:13-37
 	android:theme
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:117:13-72
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:117:13-72
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:113:13-67
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:113:13-67
 activity#com.miz.mizuu.MovieCollection
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:132:9-138:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:132:9-138:20
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:134:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:134:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:133:13-57
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:133:13-57
 activity#com.miz.mizuu.MovieCoverFanartBrowser
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:140:9-147:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:140:9-147:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:143:13-48
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:143:13-48
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:142:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:142:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:141:13-65
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:141:13-65
 activity#com.miz.mizuu.ShowCoverFanartBrowser
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:148:9-155:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:148:9-155:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:151:13-48
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:151:13-48
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:150:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:150:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:149:13-64
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:149:13-64
 activity#com.miz.mizuu.TMDbMovieDetails
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:158:9-164:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:158:9-164:20
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:160:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:160:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:159:13-58
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:159:13-58
 activity#com.miz.mizuu.TvShowEpisodeDetails
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:167:9-173:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:167:9-173:20
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:169:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:169:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:168:13-62
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:168:13-62
 activity#com.miz.mizuu.UnidentifiedTvShows
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:176:9-183:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:176:9-183:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:179:13-54
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:179:13-54
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:178:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:178:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:177:13-61
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:177:13-61
 intent-filter#category:name:android.intent.category.DEFAULT
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:180:13-182:29
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:180:13-182:29
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:181:17-76
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:181:17-76
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:181:27-73
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:181:27-73
 activity#com.miz.mizuu.UnidentifiedMovies
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:186:9-193:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:186:9-193:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:189:13-54
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:189:13-54
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:188:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:188:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:187:13-60
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:187:13-60
 activity#com.miz.mizuu.FileSources
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:196:9-205:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:196:9-205:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:199:13-48
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:199:13-48
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:198:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:198:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:197:13-53
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:197:13-53
 intent-filter#action:name:com.miz.mizuu.FileSources+category:name:android.intent.category.DEFAULT
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:200:13-204:29
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:200:13-204:29
 action#com.miz.mizuu.FileSources
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:201:17-68
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:201:17-68
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:201:25-65
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:201:25-65
 activity#com.miz.mizuu.AddNetworkFilesourceDialog
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:208:9-217:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:208:9-217:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:212:13-49
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:212:13-49
 	android:hardwareAccelerated
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:211:13-48
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:211:13-48
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:210:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:210:13-37
 	android:theme
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:213:13-54
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:213:13-54
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:209:13-68
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:209:13-68
 activity#com.miz.mizuu.AddUpnpFilesourceDialog
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:220:9-229:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:220:9-229:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:224:13-55
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:224:13-55
 	android:hardwareAccelerated
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:223:13-48
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:223:13-48
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:222:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:222:13-37
 	android:theme
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:225:13-54
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:225:13-54
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:221:13-65
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:221:13-65
 activity#com.miz.mizuu.SearchForNetworkShares
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:232:9-241:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:232:9-241:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:236:13-61
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:236:13-61
 	android:hardwareAccelerated
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:235:13-48
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:235:13-48
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:234:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:234:13-37
 	android:theme
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:237:13-54
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:237:13-54
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:233:13-64
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:233:13-64
 activity#com.miz.mizuu.FileSourceBrowser
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:244:9-254:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:244:9-254:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:247:13-50
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:247:13-50
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:246:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:246:13-37
 	android:uiOptions
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:248:13-57
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:248:13-57
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:245:13-59
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:245:13-59
 activity#com.miz.mizuu.Preferences
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:257:9-260:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:257:9-260:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:259:13-50
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:259:13-50
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:258:13-53
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:258:13-53
 service#com.miz.service.DeleteFile
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:262:9-62
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:262:9-62
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:262:18-59
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:262:18-59
 service#com.miz.service.TraktMoviesSyncService
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:263:9-74
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:263:9-74
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:263:18-71
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:263:18-71
 service#com.miz.service.TraktTvShowsSyncService
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:264:9-75
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:264:9-75
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:264:18-72
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:264:18-72
 service#com.miz.service.MovieLibraryUpdate
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:265:9-70
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:265:9-70
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:265:18-67
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:265:18-67
 service#com.miz.service.TvShowsLibraryUpdate
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:266:9-72
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:266:9-72
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:266:18-69
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:266:18-69
 service#com.miz.service.WireUpnpService
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:267:9-67
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:267:9-67
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:267:18-64
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:267:18-64
 service#com.miz.service.IdentifyTvShowService
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:268:9-73
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:268:9-73
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:268:18-70
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:268:18-70
 service#com.miz.service.IdentifyTvShowEpisodeService
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:269:9-80
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:269:9-80
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:269:18-77
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:269:18-77
 service#com.miz.service.IdentifyMovieService
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:270:9-72
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:270:9-72
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:270:18-69
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:270:18-69
 service#com.miz.service.DownloadImageService
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:271:9-72
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:271:9-72
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:271:18-69
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:271:18-69
 activity#com.miz.mizuu.Update
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:274:9-282:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:274:9-282:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:278:13-54
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:278:13-54
 	android:hardwareAccelerated
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:277:13-48
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:277:13-48
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:276:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:276:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:275:13-48
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:275:13-48
 activity#com.miz.mizuu.MovieDetails
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:285:9-296:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:285:9-296:20
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:287:13-36
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:287:13-36
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:286:13-54
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:286:13-54
 activity#com.miz.mizuu.EditMovie
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:299:9-307:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:299:9-307:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:303:13-52
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:303:13-52
 	android:hardwareAccelerated
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:302:13-48
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:302:13-48
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:301:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:301:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:300:13-51
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:300:13-51
 activity#com.miz.mizuu.EditTvShow
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:310:9-318:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:310:9-318:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:314:13-53
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:314:13-53
 	android:hardwareAccelerated
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:313:13-48
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:313:13-48
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:312:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:312:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:311:13-52
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:311:13-52
 activity#com.miz.mizuu.EditTvShowEpisode
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:321:9-329:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:321:9-329:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:325:13-60
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:325:13-60
 	android:hardwareAccelerated
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:324:13-48
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:324:13-48
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:323:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:323:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:322:13-59
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:322:13-59
 activity#com.miz.mizuu.IdentifyMovie
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:332:9-339:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:332:9-339:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:335:13-55
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:335:13-55
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:334:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:334:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:333:13-55
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:333:13-55
 activity#com.miz.mizuu.IdentifyTvShow
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:342:9-349:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:342:9-349:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:345:13-49
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:345:13-49
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:344:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:344:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:343:13-56
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:343:13-56
 activity#com.miz.mizuu.IdentifyTvShowEpisode
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:352:9-359:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:352:9-359:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:355:13-57
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:355:13-57
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:354:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:354:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:353:13-63
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:353:13-63
 activity#com.miz.mizuu.AddFileSource
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:362:9-369:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:362:9-369:20
 	android:title
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:365:13-55
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:365:13-55
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:364:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:364:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:363:13-55
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:363:13-55
 activity#com.miz.mizuu.ActorDetails
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:372:9-379:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:372:9-379:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:375:13-45
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:375:13-45
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:374:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:374:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:373:13-54
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:373:13-54
 activity#com.miz.mizuu.ActorMovies
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:382:9-389:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:382:9-389:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:385:13-50
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:385:13-50
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:384:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:384:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:383:13-53
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:383:13-53
 activity#com.miz.mizuu.ActorTvShows
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:392:9-399:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:392:9-399:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:395:13-51
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:395:13-51
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:394:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:394:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:393:13-54
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:393:13-54
 activity#com.miz.mizuu.ActorPhotos
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:402:9-409:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:402:9-409:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:405:13-56
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:405:13-56
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:404:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:404:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:403:13-53
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:403:13-53
 activity#com.miz.mizuu.ActorTaggedPhotos
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:412:9-419:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:412:9-419:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:415:13-55
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:415:13-55
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:414:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:414:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:413:13-59
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:413:13-59
 activity#com.miz.mizuu.ActorBrowser
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:422:9-429:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:422:9-429:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:425:13-50
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:425:13-50
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:424:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:424:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:423:13-54
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:423:13-54
 activity#com.miz.mizuu.ActorBrowserTv
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:432:9-439:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:432:9-439:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:435:13-50
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:435:13-50
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:434:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:434:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:433:13-56
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:433:13-56
 activity#com.miz.mizuu.SimilarMovies
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:442:9-449:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:442:9-449:20
 	android:label
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:445:13-50
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:445:13-50
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:444:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:444:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:443:13-42
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:443:13-42
 activity#com.miz.mizuu.CancelLibraryUpdate
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:450:9-459:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:450:9-459:20
 	android:excludeFromRecents
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:452:13-46
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:452:13-46
 	android:noHistory
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:454:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:454:13-37
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:453:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:453:13-37
 	android:theme
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:455:13-66
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:455:13-66
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:451:13-61
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:451:13-61
 receiver#com.miz.functions.StartScheduledUpdatesService
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:463:9-467:20
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:463:9-467:20
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:463:19-80
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:463:19-80
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:464:13-466:29
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:464:13-466:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:465:17-79
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:465:17-79
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:465:25-76
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:465:25-76
 provider#com.miz.contentprovider.MovieContentProvider
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:469:9-472:39
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:469:9-472:39
 	android:authorities
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:471:13-79
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:471:13-79
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:472:13-36
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:472:13-36
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:470:13-72
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:470:13-72
 provider#com.miz.contentprovider.MovieActorContentProvider
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:473:9-476:40
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:473:9-476:40
 	android:authorities
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:475:13-84
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:475:13-84
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:476:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:476:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:474:13-77
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:474:13-77
 provider#com.miz.contentprovider.TvShowContentProvider
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:477:9-480:39
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:477:9-480:39
 	android:authorities
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:479:13-80
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:479:13-80
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:480:13-36
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:480:13-36
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:478:13-73
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:478:13-73
 provider#com.miz.contentprovider.TvShowActorContentProvider
-ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:481:9-484:40
+ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:481:9-484:40
 	android:authorities
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:483:13-85
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:483:13-85
 	android:exported
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:484:13-37
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:484:13-37
 	android:name
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml:482:13-78
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml:482:13-78
 uses-sdk
-INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\50f3c19398d38c8156317680cb4e4add\AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\50f3c19398d38c8156317680cb4e4add\AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:palette-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\dae18838b82719d80e69880a139844a6\AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:palette-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\dae18838b82719d80e69880a139844a6\AndroidManifest.xml:15:5-42
-MERGED from [com.melnykov:floatingactionbutton:1.1.0] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\d1e81ee230e64b7a93d5ac9fc96fd2eb\AndroidManifest.xml:8:5-10:41
-MERGED from [com.melnykov:floatingactionbutton:1.1.0] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\d1e81ee230e64b7a93d5ac9fc96fd2eb\AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.ksoichiro:android-observablescrollview:1.4.0] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\3536b378554721cf4b93010bf41d4d3c\AndroidManifest.xml:21:5-43
-MERGED from [com.github.ksoichiro:android-observablescrollview:1.4.0] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\3536b378554721cf4b93010bf41d4d3c\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\1d5ee3040c73fbe0d1acabbb9f9c0c13\AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\1d5ee3040c73fbe0d1acabbb9f9c0c13\AndroidManifest.xml:15:5-42
-MERGED from [com.jpardogo.materialtabstrip:library:1.0.7] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\f711b5f67781ebc9a7a47a075c312eaa\AndroidManifest.xml:5:5-7:41
-MERGED from [com.jpardogo.materialtabstrip:library:1.0.7] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\f711b5f67781ebc9a7a47a075c312eaa\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\2d2706b01ba5c735b9a94df6eb3a39dd\AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\2d2706b01ba5c735b9a94df6eb3a39dd\AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:cardview-v7:21.0.0] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\3b0f60c3e7d3f097448a35d2e57417f8\AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:cardview-v7:21.0.0] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\3b0f60c3e7d3f097448a35d2e57417f8\AndroidManifest.xml:15:5-42
-INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml
+INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml
+INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:palette-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/234cac5a00c1e3691c90bc8c544ecc9f/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:palette-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/234cac5a00c1e3691c90bc8c544ecc9f/AndroidManifest.xml:15:5-42
+MERGED from [com.melnykov:floatingactionbutton:1.1.0] /home/pedro/.gradle/caches/transforms-2/files-2.1/14a574397b3d3a736e8ba7afb31aa067/AndroidManifest.xml:8:5-10:41
+MERGED from [com.melnykov:floatingactionbutton:1.1.0] /home/pedro/.gradle/caches/transforms-2/files-2.1/14a574397b3d3a736e8ba7afb31aa067/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.4.0] /home/pedro/.gradle/caches/transforms-2/files-2.1/91f492e5d6884a31728fadf7b7207366/AndroidManifest.xml:21:5-43
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.4.0] /home/pedro/.gradle/caches/transforms-2/files-2.1/91f492e5d6884a31728fadf7b7207366/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/b7c93b94eb4a73c384bbedc61ff25956/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:recyclerview-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/b7c93b94eb4a73c384bbedc61ff25956/AndroidManifest.xml:15:5-42
+MERGED from [com.jpardogo.materialtabstrip:library:1.0.7] /home/pedro/.gradle/caches/transforms-2/files-2.1/6785750fb58873210d1aa6810661a8ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jpardogo.materialtabstrip:library:1.0.7] /home/pedro/.gradle/caches/transforms-2/files-2.1/6785750fb58873210d1aa6810661a8ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/c9f46006910ad057706af8e677bbbb56/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/c9f46006910ad057706af8e677bbbb56/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:cardview-v7:21.0.0] /home/pedro/.gradle/caches/transforms-2/files-2.1/440ea898ec87b7a8cad5654677ca2cda/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:cardview-v7:21.0.0] /home/pedro/.gradle/caches/transforms-2/files-2.1/440ea898ec87b7a8cad5654677ca2cda/AndroidManifest.xml:15:5-42
+INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml
+INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml
+		INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Dragon.DESKTOP-UVR5DGT\AS----projects\mymode\Mizuu-master\app\src\main\AndroidManifest.xml
+		INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml
+		ADDED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/AndroidManifest.xml
 activity#android.support.v7.widget.TestActivity
-ADDED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\1d5ee3040c73fbe0d1acabbb9f9c0c13\AndroidManifest.xml:18:9-115
+ADDED from [com.android.support:recyclerview-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/b7c93b94eb4a73c384bbedc61ff25956/AndroidManifest.xml:18:9-115
 	android:label
-		ADDED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\1d5ee3040c73fbe0d1acabbb9f9c0c13\AndroidManifest.xml:18:19-59
+		ADDED from [com.android.support:recyclerview-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/b7c93b94eb4a73c384bbedc61ff25956/AndroidManifest.xml:18:19-59
 	android:name
-		ADDED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\Dragon.DESKTOP-UVR5DGT\.gradle\caches\transforms-2\files-2.1\1d5ee3040c73fbe0d1acabbb9f9c0c13\AndroidManifest.xml:18:60-113
+		ADDED from [com.android.support:recyclerview-v7:21.0.3] /home/pedro/.gradle/caches/transforms-2/files-2.1/b7c93b94eb4a73c384bbedc61ff25956/AndroidManifest.xml:18:60-113

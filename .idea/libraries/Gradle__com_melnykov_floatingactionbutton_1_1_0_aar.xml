@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.melnykov:floatingactionbutton:1.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14a574397b3d3a736e8ba7afb31aa067/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14a574397b3d3a736e8ba7afb31aa067/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14a574397b3d3a736e8ba7afb31aa067/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.melnykov/floatingactionbutton/1.1.0/b02703431323dfd3de369d42d6168393f61b91e3/floatingactionbutton-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
