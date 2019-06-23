@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 29
+    compileSdkVersion 21
     buildToolsVersion "28.0.3"
 
     defaultConfig {
         applicationId "com.miz.mizuu"
         minSdkVersion 15
-        targetSdkVersion 29
+        targetSdkVersion 26
 
         testApplicationId "com.miz.test"
         testInstrumentationRunner "android.test.InstrumentationTestRunner"
@@ -15,7 +15,6 @@ android {
         renderscriptTargetApi 21
         renderscriptSupportModeEnabled true
 
-        useLibrary 'org.apache.http.legacy'
 
     }
 

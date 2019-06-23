@@ -254,7 +254,7 @@ public class FileSourceBrowserFragment extends Fragment {
 					goBack();
 				} else {
 					if (mType != FileSource.UPNP) {
-						//Toast.makeText(getActivity(), mBrowser.getBrowserFiles().get(arg2 - 1).getName(), Toast.LENGTH_SHORT).show();
+						Toast.makeText(getActivity(), mBrowser.getBrowserFiles().get(arg2 - 1).getName(), Toast.LENGTH_SHORT).show();
 						if (mBrowser.getBrowserFiles().get(arg2 - 1).getName().equals("emulated")){
 							mBrowser = new BrowserFile(new File("/storage/emulated/0/"));
 							browse(-1, false);
