@@ -494,4 +494,6 @@ public class Main extends MizActivity {
             mDrawerLayout.closeDrawers();
         }
     }
+
+
 }

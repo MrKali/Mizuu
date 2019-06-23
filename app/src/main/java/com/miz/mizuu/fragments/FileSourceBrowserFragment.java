@@ -106,7 +106,6 @@ public class FileSourceBrowserFragment extends Fragment {
 	private AndroidUpnpService upnpService;
 	private ArrayAdapter<ContentItem> contentListAdapter;
     private FloatingActionButton mFab;
-    private File mFile;
 
 	/**
 	 * Empty constructor as per the Fragment documentation
@@ -249,11 +248,19 @@ public class FileSourceBrowserFragment extends Fragment {
 			public void onItemClick(AdapterView<?> arg0, View arg1, int arg2, long arg3) {
 				if (arg2 == 0 && mType != FileSource.UPNP) {
 					// Go back
+					if (mBrowser.getSubtitle().equals("/storage/emulated/0")){
+						mBrowser = new BrowserFile(new File("/storage/"));
+					}
 					goBack();
 				} else {
 					if (mType != FileSource.UPNP) {
-						if (mBrowser.getBrowserFiles().get(arg2 - 1).isDirectory())
+						//Toast.makeText(getActivity(), mBrowser.getBrowserFiles().get(arg2 - 1).getName(), Toast.LENGTH_SHORT).show();
+						if (mBrowser.getBrowserFiles().get(arg2 - 1).getName().equals("emulated")){
+							mBrowser = new BrowserFile(new File("/storage/emulated/0/"));
+							browse(-1, false);
+						}else if(mBrowser.getBrowserFiles().get(arg2 - 1).isDirectory()){
 							browse(arg2 - 1, false);
+						}
 					} else {
 						if (!mLoading) {
 							mLoading = true;
@@ -283,8 +290,7 @@ public class FileSourceBrowserFragment extends Fragment {
 	private void loadFilesource() throws MalformedURLException, UnsupportedEncodingException {
 		switch (mType) {
 		case FileSource.FILE:
-			mBrowser = new BrowserFile(Environment.getExternalStorageDirectory());
-			mFile = Environment.getExternalStorageDirectory();
+			mBrowser = new BrowserFile(new File("/storage/emulated/0"));
 			break;
 		case FileSource.SMB:
 			mBrowser = new BrowserSmb(new SmbFile(MizLib.createSmbLoginString(
@@ -348,7 +354,7 @@ public class FileSourceBrowserFragment extends Fragment {
 				return;
 
 			//if (mIndex >= GO_BACK && !result)
-			//	Toast.makeText(getActivity(), R.string.couldnt_load_folder, Toast.LENGTH_SHORT).show();
+			//	Toast.makeText(getActivity(), mBrowser.getSubtitle(), Toast.LENGTH_SHORT).show();
 
 			setLoading(false);
 

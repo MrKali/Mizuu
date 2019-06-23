@@ -98,7 +98,6 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/instant_app_manifest" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/instant_run_merged_manifests" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/javac" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/lint_jar" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/merged_assets" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/merged_jni_libs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/merged_manifests" />
@@ -116,7 +115,7 @@
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
       <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
-    <orderEntry type="jdk" jdkName="Android API 21 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: com.google.guava:guava:18.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.squareup.okhttp:okhttp:2.7.2@jar" level="project" />
@@ -141,5 +140,6 @@
     <orderEntry type="library" name="Gradle: com.github.ksoichiro:android-observablescrollview:1.4.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:palette-v7:21.0.3@aar" level="project" />
     <orderEntry type="library" name="Gradle: __local_aars__:/home/pedro/Android/Sdk/build-tools/28.0.3/renderscript/lib/renderscript-v8.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.http.legacy-android-29" level="project" />
   </component>
 </module>
