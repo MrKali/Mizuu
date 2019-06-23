@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Jun 23 22:55:53 WEST 2019
+#Sun Jun 23 22:58:17 WEST 2019
 17.baseType=DIRECTORY
 4.path=lib/x86_64/librsjni.so
 22.set=ASSET
