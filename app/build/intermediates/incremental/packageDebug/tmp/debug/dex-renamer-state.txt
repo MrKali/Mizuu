@@ -1,4 +1,4 @@
-#Mon Jun 24 11:57:20 WEST 2019
+#Mon Jun 24 12:12:35 WEST 2019
 base.0=/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/dex/debug/mergeDexDebug/out
 path.0=classes.dex
 renamed.0=classes.dex
