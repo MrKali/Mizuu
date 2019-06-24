@@ -1,0 +1,1982 @@
+[
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_menuicon.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/menuicon.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_nobackdrop.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/nobackdrop.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_filesource_list.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/filesource_list.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_delete_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_delete_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/xml_other_prefs.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/xml/other_prefs.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout-sw600dp_filesource_browser.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout-sw600dp/filesource_browser.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_grid_portrait_photo.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/grid_portrait_photo.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_exit_to_app_grey600_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_exit_to_app_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_search_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_tv_grey600_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_tv_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_favorite_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_favorite_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_menu_drawer_header_item.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/menu_drawer_header_item.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_settings_grey600_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_settings_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_abc_edit_text_material.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_favorite_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_favorite_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_person_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_person_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_search_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_queue_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_queue_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_menuicon.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-hdpi/menuicon.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/color_abc_secondary_text_material_dark.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_grid_season_cover.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/grid_season_cover.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_upnp_list.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/upnp_list.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_gray.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable/gray.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_settings_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_shadow.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/shadow.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/menu_tv_show_details.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/menu/tv_show_details.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_person_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_person_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_action_bar_title_item.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_grid_item.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/grid_item.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_widget_item.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/widget_item.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_backdrop_grid_fragment.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/backdrop_grid_fragment.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_tv_grey600_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_tv_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_queue_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_queue_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_shadow.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/shadow.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_sort_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_menuicon.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-mdpi/menuicon.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_play_arrow_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_checked_foreground_drawable.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable/checked_foreground_drawable.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/color_abc_primary_text_material_dark.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout-v11_abc_screen_content_include.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout-v11/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/menu_seasons_contextual.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/menu/seasons_contextual.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout-sw600dp_edit_episode.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout-sw600dp/edit_episode.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_cloud_download_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_cloud_download_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_cloud_grey600_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_cloud_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/anim_abc_fade_out.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_movie_cover_widget.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/movie_cover_widget.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_tab.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/tab.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_label_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_label_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_unknown_user.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/unknown_user.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-v21_selectable_background.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-v21/selectable_background.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_add_file_source_inner.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/add_file_source_inner.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_video_collection_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_video_collection_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_shadow_mini.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/14a574397b3d3a736e8ba7afb31aa067/res/drawable-xxhdpi-v4/shadow_mini.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_abc_tab_indicator_material.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_drawer_list_shadow.9.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/drawer_list_shadow.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_settings_grey600_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_settings_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-v21_checked_foreground_drawable.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-v21/checked_foreground_drawable.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_tv_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_tv_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_cloud_grey600_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_cloud_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_favorite_outline_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_favorite_outline_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_edit_episode.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/edit_episode.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_filesources_layout.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/filesources_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_visibility_off_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_visibility_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_loading_image.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/loading_image.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_menu_drawer_separator.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/menu_drawer_separator.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_search_view.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/color_abc_secondary_text_material_light.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_signal_wifi_statusbar_connected_no_internet_2_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_signal_wifi_statusbar_connected_no_internet_2_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/xml_identification_search_prefs.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/xml/identification_search_prefs.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_shadow.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/14a574397b3d3a736e8ba7afb31aa067/res/drawable-xxxhdpi-v4/shadow.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_flag_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_flag_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/anim_abc_slide_out_top.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_action_menu_layout.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_number_picker_dialog.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/number_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_menu_drawer_item.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/menu_drawer_item.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_label_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_label_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_grid_cover_two_line.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/grid_cover_two_line.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_arrow_back_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/xml_user_interface_prefs.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/xml/user_interface_prefs.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_signal_wifi_statusbar_connected_no_internet_2_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_signal_wifi_statusbar_connected_no_internet_2_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_remote_playback.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/remote_playback.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_view_module_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_view_module_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout-sw600dp_edit_movie.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout-sw600dp/edit_movie.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/color_abc_primary_text_material_light.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_database.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_action_database.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/xml_advanced_prefs.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/xml/advanced_prefs.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_people_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_people_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_filesources.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/filesources.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_image_grid_fragment.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/image_grid_fragment.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_info_outline_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_info_outline_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_horizontal_grid_item_small.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/horizontal_grid_item_small.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_lock_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_lock_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_list_selector.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable/list_selector.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_unidentified_files.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/unidentified_files.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/xml_searchable_tv.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/xml/searchable_tv.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_add_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/menu_movie_details.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/menu/movie_details.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_toolbar_layout.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/toolbar_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_shadow.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-hdpi/shadow.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_image_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_image_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_add_file_source.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/add_file_source.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/menu_menu.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_abc_btn_check_material.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_file_list_item.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/file_list_item.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/anim_abc_slide_in_top.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_episode_details.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/episode_details.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_add_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_simple_dropdown_hint.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_palette_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_palette_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_share_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_share_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_grid_episode.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/grid_episode.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_insert_drive_file_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_insert_drive_file_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout-sw600dp_identify_movie_and_tv_show.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout-sw600dp/identify_movie_and_tv_show.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_done_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_done_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_play_shopping_bag_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_play_shopping_bag_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_palette_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_palette_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_favorite_outline_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_favorite_outline_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_sync_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_sync_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_movie_backdrop_widget_item.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/movie_backdrop_widget_item.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_subtitles_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_subtitles_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_unidentified_files_layout.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/unidentified_files_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_bg.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable/bg.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/menu_unidentified_files.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/menu/unidentified_files.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_menu_drawer_header.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/menu_drawer_header.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout-sw600dp_update_layout.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout-sw600dp/update_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-nodpi_android_tv_banner.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-nodpi/android_tv_banner.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_simple_list.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/simple_list.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/color_abc_search_url_text.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_subtitles_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_subtitles_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_menu_drawer_separator_extra_padding.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/menu_drawer_separator_extra_padding.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_today_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_today_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/xml_preference_headers.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/xml/preference_headers.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_viewpager_with_toolbar_overlay.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/viewpager_with_toolbar_overlay.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout-land_episode_details.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout-land/episode_details.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_transparent_actionbar.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable/transparent_actionbar.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/anim_fade_in.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/anim_abc_slide_out_bottom.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/menu_tmdb_details.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/menu/tmdb_details.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-xhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_abc_textfield_search_material.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_local_movies_grey600_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_local_movies_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_arrow_back_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_edit_movie_layout_buttons.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/edit_movie_layout_buttons.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_grid_landscape_photo.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/grid_landscape_photo.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_close_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_close_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_selectable_background.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable/selectable_background.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_filter_list_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_filter_list_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_gradient_black_to_transparent.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable/gradient_black_to_transparent.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_movie_cover_widget_item.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/movie_cover_widget_item.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_movie_grey600_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_movie_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout-land_filesource_browser.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout-land/filesource_browser.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/anim_fade_out.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_movie_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_movie_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_noactor.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/noactor.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout-land_movie_and_tv_show_details.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout-land/movie_and_tv_show_details.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_edit_movie_layout.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/edit_movie_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/xml_searchable_actors_tv.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/xml/searchable_actors_tv.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_cancel_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_cancel_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_horizontal_grid_item_small_landscape_no_text.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/horizontal_grid_item_small_landscape_no_text.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_exit_to_app_grey600_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_exit_to_app_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_home_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_home_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_sync_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_sync_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_shadow_mini.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/14a574397b3d3a736e8ba7afb31aa067/res/drawable-xhdpi-v4/shadow_mini.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_extension_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_extension_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-nodpi_default_menu_backdrop.jpg.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-nodpi/default_menu_backdrop.jpg"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/menu_movie_library_cab.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/menu/movie_library_cab.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_visibility_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_visibility_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_activity_chooser_view_include.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_new_identify.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/new_identify.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/anim_abc_fade_in.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_visibility_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_visibility_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/xml_searchable.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/menu_menutv.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/menu/menutv.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_play_arrow_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_highlighted_bg.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable/highlighted_bg.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/menu_show_library_cab.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/menu/show_library_cab.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_menuicon.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/menuicon.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_close_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_close_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_extension_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_extension_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_folder_open_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_folder_open_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_list_item_movie_and_tv_show.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/list_item_movie_and_tv_show.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi-v4_shadow_mini.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/14a574397b3d3a736e8ba7afb31aa067/res/drawable-hdpi-v4/shadow_mini.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/menu_switch_button.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/menu/switch_button.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_update.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/update.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_home_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_home_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_viewpager_with_toolbar.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/viewpager_with_toolbar.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_filesource_browser.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/filesource_browser.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/menu_edit_movie_and_tv_show.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/menu/edit_movie_and_tv_show.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_menu_selector.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable/menu_selector.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_filter_list_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_filter_list_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_horizontal_grid_items.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/horizontal_grid_items.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-nodpi_bg_with_border.9.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-nodpi/bg_with_border.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_list.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/list.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_buttonstyle.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable/buttonstyle.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_empty_layout_with_toolbar.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/empty_layout_with_toolbar.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_done_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_done_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_menu_drawer_small_item.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/menu_drawer_small_item.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_edit_episode_layout.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/edit_episode_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_account_layout.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/account_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_horizontal_grid_item_small_no_text.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/horizontal_grid_item_small_no_text.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/menu_episodes_contextual.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/menu/episodes_contextual.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_language_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_language_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_identify_movie_and_tv_show.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/identify_movie_and_tv_show.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_check_white_36dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_check_white_36dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_webvideo_item.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/webvideo_item.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_tv_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_tv_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_flag_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_flag_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_widget_layout.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/widget_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_lock_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_lock_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_delete_file_dialog_layout.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/delete_file_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_viewpager_with_toolbar_and_tabs.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/viewpager_with_toolbar_and_tabs.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout-land_actor_details.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout-land/actor_details.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_edit_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_edit_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/xml_searchable_actor_movies.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/xml/searchable_actor_movies.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_view_module_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_view_module_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_format_quote_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_format_quote_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_more_vert_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_more_vert_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_local_movies_grey600_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_local_movies_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_more_vert_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_more_vert_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_abc_item_background_holo_light.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_split_file_item.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/split_file_item.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_scheduled_updates.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/scheduled_updates.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_background_tab.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable/background_tab.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_format_quote_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_format_quote_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_photo.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/photo.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout-sw600dp_add_file_source.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout-sw600dp/add_file_source.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_action_database.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_action_database.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_row.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/row.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_movie_grey600_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_movie_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_unknown_user.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/unknown_user.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_addnetwork.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/addnetwork.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_image_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_image_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_update_layout.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/update_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_viewpager_with_tabs.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/viewpager_with_tabs.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_abc_btn_radio_material.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_edit_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_edit_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_actor_details.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/actor_details.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_today_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_today_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_edit_movie.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/edit_movie.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_check_white_36dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_check_white_36dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_selected_bg.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable/selected_bg.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_video_collection_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_video_collection_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_movie_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_movie_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_movie_and_tv_show_details.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/movie_and_tv_show_details.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi_menuicon.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxxhdpi/menuicon.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_file_source_list_header.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/file_source_list_header.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_menu_drawer.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/menu_drawer.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_movie_backdrop_widget.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/movie_backdrop_widget.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout-sw600dp_unidentified_files_layout.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout-sw600dp/unidentified_files_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-ldrtl-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-ldrtl-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_list_episode.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/list_episode.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_activity_chooser_view.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/menu_filebrowser.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/menu/filebrowser.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_selected_menu_bg.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable/selected_menu_bg.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_grid_cover.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/grid_cover.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_screen_simple.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi-v4_shadow_mini.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/14a574397b3d3a736e8ba7afb31aa067/res/drawable-mdpi-v4/shadow_mini.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_cancel_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_cancel_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_folder_open_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_folder_open_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_play_shopping_bag_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_play_shopping_bag_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_cloud_download_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_cloud_download_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_action_mode_bar.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_share_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_share_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/anim_abc_slide_in_bottom.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_row_header.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout/row_header.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_add_white_36dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_add_white_36dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout-sw600dp_edit_movie_layout_buttons.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout-sw600dp/edit_movie_layout_buttons.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_play_arrow_white_36dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_play_arrow_white_36dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-hdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/xml_general_prefs.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/xml/general_prefs.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_sort_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/menu_episodes_overview.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/menu/episodes_overview.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_info_outline_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_info_outline_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout_abc_screen_toolbar.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/menu_unidentified.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/menu/unidentified.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_visibility_off_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_visibility_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_add_white_36dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_add_white_36dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_people_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_people_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_shadow_mini.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/14a574397b3d3a736e8ba7afb31aa067/res/drawable-xxxhdpi-v4/shadow_mini.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/layout-sw600dp_filesources_layout.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/layout-sw600dp/filesources_layout.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/menu_episode_details.xml.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/menu/episode_details.xml"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_insert_drive_file_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xxhdpi/ic_insert_drive_file_white_24dp.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-mdpi_shadow.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-mdpi/shadow.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_language_white_24dp.png.flat",
+        "source": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/src/main/res/drawable-xhdpi/ic_language_white_24dp.png"
+    }
+]

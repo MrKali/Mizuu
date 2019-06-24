@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/pedro/MEGA/Freelancer/Steve Austin/Mizuu/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+            "map": [
+                {
+                    "source": "/home/pedro/.gradle/caches/transforms-2/files-2.1/4c45eada4d991dbb2a49e04b9e4df6d5/res/values-xlarge-land/values.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "63",
+                        "endOffsets": "115"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

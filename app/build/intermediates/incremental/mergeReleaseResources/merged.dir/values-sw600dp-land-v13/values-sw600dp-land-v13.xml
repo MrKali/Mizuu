@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="episode_details_max_lines">8</integer>
+    <integer name="movie_details_max_lines">4</integer>
+    <integer name="show_details_max_lines">6</integer>
+</resources>
