@@ -14,8 +14,6 @@ android {
 
         renderscriptTargetApi 21
         renderscriptSupportModeEnabled true
-
-
     }
 
     buildTypes {
